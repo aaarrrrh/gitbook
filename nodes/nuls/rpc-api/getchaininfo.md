@@ -1,0 +1,5 @@
+# getChainInfo
+
+```
+// Request:curl -s -X POST -H 'Content-Type: application/json' --data '{"jsonrpc":"2.0","method":"getChainInfo","params":[], "id":1234}' http://.ankr.com​// Result:{ "jsonrpc":"2.0", "id":"1234", "result": {      "chainId":1,      "chainName":"nuls",      "defaultAsset": {          "key":"1-1",          "chainId":1,          "assetId":1,          "symbol":"NULS",          "decimals":8,          "initCoins":0,          "address":null,          "status":1},      "assets": [          {               "key":"1-1",               "chainId":1,               "assetId":1,               "symbol":"NULS",               "decimals":8,               "initCoins":0,               "address":null,               "status":1           }       ],       "seeds": [               "NULSd6Hge7xHDnvsSpnzbR2gWHd31zJ1How11",               "NULSd6Hgc5VNP4rF4wxdiXEQKpBKUE4w5RS22",               "NULSd6HgeQwXLdre69ArkqVZNDqMLU4CaAz33",               "NULSd6HgcjAKAgq8jjXgBCcNLEJUvJEYcoj44",               "NULSd6HgiDdTjcuvhqzm3bomyBFZmosV3ei55"       ],       "status":1,       "new":false       }   }
+```
