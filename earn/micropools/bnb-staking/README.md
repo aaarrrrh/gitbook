@@ -18,12 +18,6 @@ Staking BNB helps operate and secure the Binance Chain ensuring efficient transa
 
 Stake any amount of BNB (BEP 2 tokens) (minimum 1 BNB) to earn staking rewards.
 
-## **00 Before you Start** <a href="prerequisites" id="prerequisites"></a>
-
-1. You will need a **Binance Chain Wallet** browser extension. Check out the Binance docs for [download links to add the wallet extension](https://docs.binance.org/smart-chain/wallet/binance.html).&#x20;
-2. Ensure you have **sufficient BNB to stake plus a small amount for fees**. You can purchase or swap crypto for BNB at [https://www.binance.com/](https://www.binance.com) and other exchanges.&#x20;
-3. Send the **desired amount of BNB (BEP 2)** to your Binance Chain Wallet address.
-
-01 Get Started&#x20;
+## **** <a href="prerequisites" id="prerequisites"></a>
 
 ### **** <a href="connect-your-wallet" id="connect-your-wallet"></a>
