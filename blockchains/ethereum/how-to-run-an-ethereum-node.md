@@ -123,11 +123,11 @@ Blockchain and EVM data is stored in the location specified by **database**.&#x2
 In the example below it is: `database=/Users/username/Library/Ethereum/goerli/geth/lightchaindata cache=64.00MiB handles=5120`
 {% endhint %}
 
-![](../../../.gitbook/assets/goerli-test-node.png)
+![](../../.gitbook/assets/goerli-test-node.png)
 
 Your **client **looks for a node to connect to and begins block synchronization.  The Block Count is high to start with before it catches up and displays `count = 1`
 
-![](<../../../.gitbook/assets/Screenshot 2021-11-12 at 17.29.20.png>)
+![](<../../.gitbook/assets/Screenshot 2021-11-12 at 17.29.20.png>)
 
 ## 04 Interact with Ethereum Test Node (IPC)
 
@@ -174,54 +174,6 @@ To exit, press ctrl-d or type exit
 true
 > net.peerCount
 1
-> 
-```
-
-### 2. Install web3.js
-
-1. Use code below or checkout [web3.js API](https://github.com/ChainSafe/web3.js).&#x20;
-
-{% tabs %}
-{% tab title="Node" %}
-```javascript
-npm install web3
-```
-{% endtab %}
-
-{% tab title="Yarn" %}
-```
-yarn add web3
-```
-{% endtab %}
-{% endtabs %}
-
-## 05 Connect to the Ethereum RPC Node&#x20;
-
-The Ethereum Public RPC URL is `https://rpc.ankr.com/eth`
-
-### 1. Attach to Javascript Console
-
-Open a new terminal window or tab, and run the following command:
-
-```javascript
-$ geth attach https://rpc.ankr.com/eth
-```
-
-### 2. Run standard JSON-RPC methods
-
-e.g. In the **Console, **run** **`eth.syncing`
-
-**Example:**
-
-```javascript
-> eth.syncing
-{
-  currentBlock: 5837939,
-  highestBlock: 5837941,
-  knownStates: 0,
-  pulledStates: 0,
-  startingBlock: 5837930
-}
 > 
 ```
 
