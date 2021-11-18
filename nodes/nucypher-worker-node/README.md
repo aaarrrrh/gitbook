@@ -4,8 +4,6 @@ NuCypher is a data encryption and protection layer for [Ethereum](https://messar
 
 ​[Go to tutorial to setup NuCypher Worker Node](https://app.gitbook.com/@ankr/s/docs/\~/drafts/-MLEXM\_gy0lx-QEVW4xu/staking-nodes/nucypher-worker-node/tutorial)​
 
-​[Go to Node Test](https://app.gitbook.com/@ankr/s/docs/\~/drafts/-MLEXM\_gy0lx-QEVW4xu/staking-nodes/nucypher-worker-node/node-test)​
-
-​[Go to FAQ](https://app.gitbook.com/@ankr/s/docs/\~/drafts/-MLEXM\_gy0lx-QEVW4xu/staking-nodes/nucypher-worker-node/faq)​
+​​
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MF6NYa65t3TUvQZ0zRX%2F-ML9VVlc7iP5Xu7XMyn5%2F-ML9VwR3Z13fuICWHHUE%2Fimage.png?alt=media\&token=9f123f1d-c652-4933-83d4-e1d4afbc7222)
