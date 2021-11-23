@@ -14,8 +14,25 @@ Create a new user with the specified username and password.
 
 ## **Example Call** <a href="example-call" id="example-call"></a>
 
-```
-//Requestcurl -X POST --data '{    "jsonrpc":"2.0",    "id"     :1,    "method" :"keystore.createUser",    "params" :{        "username":"bob",        "password":"creme fraiche"    }}' -H 'content-type:application/json;' http://.ankr.com/ext/keystore​//Response{    "jsonrpc":"2.0",    "id"     :1,    "result" :{        "success":true    }}
+```javascript
+//Request
+curl -X POST --data '{
+    "jsonrpc":"2.0",
+    "id":1,
+    "method" :"keystore.createUser",    
+    "params" : {        
+        "username":"bob",        
+        "password":"creme fraiche"    
+        },
+}' -H 'content-type:application/json;' http:///<your-node-id>.ankr.com/ext/keystore​
+
+//Response
+{    
+    "jsonrpc":"2.0",    
+    "id":1,    
+    "result" :{        
+        "success":true    }
+        }
 ```
 
 ​

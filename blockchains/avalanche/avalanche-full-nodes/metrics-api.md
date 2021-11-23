@@ -14,8 +14,9 @@ The API allows clients to get statistics about a node’s health and performance
 
 To get the node metrics:
 
-```
-//Requestcurl -X POST http://.ankr.com/ext/metrics
+```bash
+//Request
+curl -X POST http:///<your-node-id>.ankr.com/ext/metrics
 ```
 
 ### Format <a href="format" id="format"></a>

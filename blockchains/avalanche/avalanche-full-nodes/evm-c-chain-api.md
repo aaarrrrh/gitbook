@@ -28,6 +28,19 @@ To interact with other instances of the EVM:
 
 ## **Example Call** <a href="example-call" id="example-call"></a>
 
-```
-//Requestcurl -X POST --data '{    "jsonrpc": "2.0",    "method": "web3_clientVersion",    "params": [],    "id": 1}' -H 'Content-Type: application/json' \   -H 'cache-control: no-cache' \   http://.ankr.com/ext/bc/C/rpc //Response​{    "jsonrpc": "2.0",    "id": 1,    "result": "Athereum 1.0"}  
+```javascript
+//Request
+curl -X POST --data '{ 
+    "jsonrpc": "2.0",    
+    "method": "web3_clientVersion",    
+    "params": [],    
+    "id": 1
+}' -H 'Content-Type: application/json;' http://<your-node-id>.ankr.com/ext/bc/C/rpc 
+
+//Response​
+{
+    "jsonrpc": "2.0",    
+    "id": 1,    
+    "result": "Athereum 1.0"
+    }  
 ```

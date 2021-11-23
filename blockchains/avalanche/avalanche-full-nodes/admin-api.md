@@ -16,6 +16,24 @@ Assign an API endpoint an alias, a different endpoint for the API. The original 
 
 ## **Example Call** <a href="example-call" id="example-call"></a>
 
-```
-//Requestcurl -X POST --data '{    "jsonrpc":"2.0",    "id"     :1,    "method" :"admin.alias",    "params": {        "alias":"myAlias",        "endpoint":"bc/X"    }}' -H 'content-type:application/json;' http://.ankr.com/ext/admin​//Response{    "jsonrpc":"2.0",    "id"     :1,    "result" :{        "success":true    }}
+```javascript
+//Request
+curl -X POST --data '{
+    "jsonrpc":"2.0",
+    "id" :1,
+    "method" :"admin.alias",    
+    "params": {
+            "alias":"myAlias",
+            "endpoint":"bc/X"    
+            }
+}' -H 'content-type:application/json;' http:///<your-node-id>.ankr.com/ext/admin​
+
+//Response
+{    
+    "jsonrpc":"2.0",
+    "id" :1,
+    "result" :{
+            "success":true    
+            }
+}
 ```

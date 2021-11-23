@@ -12,6 +12,20 @@ Get the version of this node.
 
 ## **Example Call** <a href="example-call" id="example-call"></a>
 
-```
-//Requestcurl -X POST --data '{    "jsonrpc":"2.0",    "id"     :1,    "method" :"info.getNodeVersion"}' -H 'content-type:application/json;' http://.ankr.com/ext/info​//Reponse{    "jsonrpc": "2.0",    "result": {        "version": "avalanche/0.7.0"    },    "id": 1}
+```javascript
+//Request
+curl -X POST --data '{
+    "jsonrpc":"2.0",    
+    "id" :1,    
+    "method" :"info.getNodeVersion"
+    }' -H 'content-type:application/json;' http:///<your-node-id>.ankr.com/ext/info
+    
+​//Reponse
+{    
+    "jsonrpc": "2.0",    
+    "result": {        
+        "version": "avalanche/0.7.0"    
+        },    
+    "id": 1
+    }
 ```

@@ -114,12 +114,5 @@ curl '127.0.0.1:9650/ext/bc/C/rpc' \
 
 Endpoints are for both the **C-Chain** and the **EVM AVAX **endpoints.
 
-Read more in [Avalanche Docs](https://docs.avax.network/build/avalanchego-apis/contract-chain-c-chain-api#avalanche-specific-apis)
+Read more in [Avalanche Docs](https://docs.avax.network/build/avalanchego-apis/contract-chain-c-chain-api#avalanche-specific-apis) and next sections
 
-### Admin API
-
-This is the API for debugging and measuring node health. To activate it, you need to amend the
-
-&#x20;`--config`-file with `--api-admin-enabled=true`
-
-Read more in the [Issuing API calls](https://docs.avax.network/build/avalanchego-apis/issuing-api-calls) section of docs.avax.network.&#x20;
