@@ -52,7 +52,6 @@ func main() {
   }
   fmt.Println(string(body))
 }
-
 ```
 {% endtab %}
 
@@ -69,5 +68,3 @@ func main() {
 {% endtab %}
 {% endtabs %}
 
-```go
-```

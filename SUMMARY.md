@@ -66,7 +66,8 @@
   * [01 Get Ready](ankr-protocol/providing-infrastructure/01-get-ready.md)
   * [02 Getting Started](ankr-protocol/providing-infrastructure/02-getting-started.md)
 * [How to Integrate](ankr-protocol/how-to-integrate.md)
-* [FAQs](ankr-protocol/faqs.md)
+* [FAQs](ankr-protocol/faqs/README.md)
+  * [What is a Public RPC endpoint](ankr-protocol/faqs/what-is-a-public-rpc-endpoint.md)
 
 ## Earn
 
@@ -112,7 +113,7 @@
   * [Parachain SDK](earn/parachain-bonds/parachain-sdk.md)
 * [Ankr Boost](earn/stakefi-alpha.md)
 
-## Enterprise - Web 3.0 Infrastructure <a href="web-3.0-infrastructure" id="web-3.0-infrastructure"></a>
+## Enterprise - Web 3.0 Infrastructure <a href="#web-3.0-infrastructure" id="web-3.0-infrastructure"></a>
 
 * [About Web 3.0 Infrastructure Services](web-3.0-infrastructure/about-web-3.0-infrastructure-services.md)
 * [Developer API vs Full Node](web-3.0-infrastructure/developer-api-vs-full-node.md)
@@ -128,7 +129,7 @@
   * [How to write a Proposal](community-ankr-holders/governance-mechanics/how-to-make-a-proposal.md)
   * [How to vote](community-ankr-holders/governance-mechanics/how-to-vote-on-a-proposal.md)
 
-## Blockchain Solutions <a href="blockchains" id="blockchains"></a>
+## Blockchain Solutions <a href="#blockchains" id="blockchains"></a>
 
 * [Avalanche](blockchains/avalanche/README.md)
   * [Develop on Avalanche](blockchains/avalanche/develop-on-avalanche.md)

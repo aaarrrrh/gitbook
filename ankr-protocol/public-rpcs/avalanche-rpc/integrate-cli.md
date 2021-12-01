@@ -57,13 +57,11 @@ none
 
 `"42"`: Kovan Testnet
 
-
-
 ### HEADERS
 
-**Content-Type**  application/json
+**Content-Type** application/json
 
-### **BODY **raw
+### BODY raw
 
 ```json
 {

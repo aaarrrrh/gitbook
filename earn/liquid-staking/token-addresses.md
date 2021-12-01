@@ -6,9 +6,9 @@ description: Ankr & Liquid Staking tokens
 
 **Ethereum network (ERC20)**
 
-****
+***
 
-* Ankr Network (**ANKR**):&#x20;
+* Ankr Network (**ANKR**):
 
 [0x8290333cef9e6d528dd5618fb97a76f268f3edd4](https://etherscan.io/token/0x8290333cef9e6d528dd5618fb97a76f268f3edd4#balances)
 
@@ -32,11 +32,11 @@ description: Ankr & Liquid Staking tokens
 
 [0x84da8e731172827fcb233b911678e2a82e27baf2](https://etherscan.io/token/0x84da8e731172827fcb233b911678e2a82e27baf2)
 
-* <mark style="color:red;">Ankr Reward-Earning Staked AVAX -</mark> <mark style="color:red;">**Deprecated**</mark> <mark style="color:red;"></mark><mark style="color:red;">**(aAVAXb)**</mark><mark style="color:red;">:</mark>
+* <mark style="color:red;">Ankr Reward-Earning Staked AVAX -</mark> <mark style="color:red;">**Deprecated**</mark> <mark style="color:red;">**(aAVAXb)**</mark><mark style="color:red;">:</mark>
 
-<mark style="color:red;"></mark>[0x30176cecb6dbf0869d59493142925a0287b12216](https://etherscan.io/token/0x30176cecb6dbf0869d59493142925a0287b12216#balances)                                                                                        _--> <mark style="color:red;">Please go on</mark> _[_stakefi.ankr.com_](https://stakefi.ankr.com/internet-bonds)_ <mark style="color:red;">bridge back aAVAXb (ERC-20) from Ethereum to Avalanche network.</mark>_
+[0x30176cecb6dbf0869d59493142925a0287b12216](https://etherscan.io/token/0x30176cecb6dbf0869d59493142925a0287b12216#balances) _--> <mark style="color:red;">Please go on</mark> _ [_stakefi.ankr.com_](https://stakefi.ankr.com/internet-bonds) _ <mark style="color:red;">bridge back aAVAXb (ERC-20) from Ethereum to Avalanche network.</mark>_
 
-****
+***
 
 **Binance Chain (BEP2)**
 
@@ -44,7 +44,7 @@ description: Ankr & Liquid Staking tokens
 
 [bnb1hvg059mkwleum35j6y2qjn4fvmgl7zxtlah4tn](https://explorer.binance.org/asset/ANKR-E97)
 
-****
+***
 
 **Binance Smart Chain (BEP20)**
 
@@ -56,8 +56,6 @@ description: Ankr & Liquid Staking tokens
 
 [0x973616ff3b9d8f88411c5b4e6f928ee541e4d01f](https://bscscan.com/token/0x973616ff3b9d8f88411c5b4e6f928ee541e4d01f#balances)
 
-
-
 **Polygon network**
 
 * Ankr Network (**ANKR**):
@@ -67,8 +65,6 @@ description: Ankr & Liquid Staking tokens
 * Ankr Reward-Bearing Staked ETH (**aETHc**):
 
 [0xC4e82BA0Fe6763cbE5E9CbCA0ba7cbD6F91C6018](https://polygonscan.com/token/0xc4e82ba0fe6763cbe5e9cbca0ba7cbd6f91c6018#balances)
-
-
 
 **Avalanche network**
 

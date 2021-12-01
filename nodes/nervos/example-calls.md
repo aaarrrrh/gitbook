@@ -54,7 +54,6 @@ curl --request POST 'https://app-<YOUR-API-ENDPOINT>.hk.ankr.com' \
 "params": []
 }'
 
-
 ```
 
 ### EXAMPLE RESPONSE
@@ -66,4 +65,3 @@ curl --request POST 'https://app-<YOUR-API-ENDPOINT>.hk.ankr.com' \
 "id":42
 }
 ```
-

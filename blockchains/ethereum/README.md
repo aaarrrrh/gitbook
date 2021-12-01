@@ -13,11 +13,11 @@ The Ethereum network is one of the most popular platforms for building decentral
 
 ## Quick Links
 
-​[**Ethereum**](https://ethereum.org/en/developers/) \
-[**Docs**](https://ethereum.org/en/developers/docs/apis/json-rpc/)****\
-****[**Github**](https://github.com/ethereum/eth1.0-apis)****
+​[**Ethereum**](https://ethereum.org/en/developers/)\
+[**Docs**](https://ethereum.org/en/developers/docs/apis/json-rpc/)\
+[**Github**](https://github.com/ethereum/eth1.0-apis)
 
-## **Product Availability **
+## Product Availability
 
 |                | Ankr Solution                       | Networks                                                | Where                                                  |
 | -------------- | ----------------------------------- | ------------------------------------------------------- | ------------------------------------------------------ |

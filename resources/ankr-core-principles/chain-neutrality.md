@@ -2,10 +2,10 @@
 
 ## **We are Chain Neutral**
 
-#### Ankr is a single platform that provides multiple different chains without advocating for any particular chain over another.&#x20;
+#### Ankr is a single platform that provides multiple different chains without advocating for any particular chain over another.
 
 {% hint style="info" %}
-**NOTE: **This is also known as Blockchain Agnosticism.
+NOTE: This is also known as Blockchain Agnosticism.
 {% endhint %}
 
 As a multi-chain provider, Ankr is chain neutral; we don’t advocate for our users to adopt any particular chain in preference to another. For example, a question we often get from developers is “Should I build my project on Ethereum or Binance Smart Chain?”

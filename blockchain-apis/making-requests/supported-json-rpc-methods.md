@@ -5,7 +5,7 @@ description: This section details all the methods Ankr supports
 # Supported JSON RPC Methods
 
 {% hint style="info" %}
-## Websockets
+### Websockets
 
 * `Subscribe`
 * `Unsubscribe`
@@ -108,7 +108,7 @@ Executes a new message call immediately without creating a transaction on the bl
 * `gas`: `QUANTITY` - (optional) Integer of the gas provided for the transaction execution. eth\_call consumes zero gas, but this parameter may be needed by some executions.
 * `gasPrice`: `QUANTITY` - (optional) Integer of the gasPrice used for each paid gas
 * `value`: `QUANTITY` - (optional) Integer of the value sent with this transaction
-* `data`: `DATA` - (optional) Hash of the method signature and encoded parameters. For details see [Ethereum Contract ABI in the Solidity documentation](https://solidity.readthedocs.io/en/latest/abi-spec.html)&#x20;
+* `data`: `DATA` - (optional) Hash of the method signature and encoded parameters. For details see [Ethereum Contract ABI in the Solidity documentation](https://solidity.readthedocs.io/en/latest/abi-spec.html)
 
 2\. `QUANTITY|TAG` - integer block number, or the string `"latest"`, `"earliest"` or `"pending"`, see the [default block parameter](https://eth.wiki/json-rpc/API#the-default-block-parameter)
 
@@ -157,7 +157,7 @@ curl -X POST --data '{"jsonrpc":"2.0","method":"eth_chainId","params":[],"id":83
 }
 ```
 
-## ** eth\_estimateGas**
+## \*\* eth\_estimateGas\*\*
 
 Generates and returns an estimate of how much gas is necessary to allow the transaction to complete. The transaction will not be added to the blockchain. Note that the estimate may be significantly more than the amount of gas actually used by the transaction, for a variety of reasons including EVM mechanics and node performance.
 
@@ -521,7 +521,7 @@ params: [{
 `Array` - Array of log objects, or an empty array if nothing has changed since last poll.
 
 * For filters created with `eth_newBlockFilter` the return are block hashes (`DATA`, 32 Bytes), e.g. `["0x3454645634534..."]`.
-* For filters created with `eth_newPendingTransactionFilter`  the return are transaction hashes (`DATA`, 32 Bytes), e.g. `["0x6345343454645..."]`.
+* For filters created with `eth_newPendingTransactionFilter` the return are transaction hashes (`DATA`, 32 Bytes), e.g. `["0x6345343454645..."]`.
 * For filters created with `eth_newFilter` logs are objects with following params:
   * `removed`: `TAG` - `true` when the log was removed, due to a chain reorganization. `false` if its a valid log.
   * `logIndex`: `QUANTITY` - integer of the log index position in the block. `null` when its pending log.
@@ -717,7 +717,7 @@ params: [
 * `value`: `QUANTITY` - value transferred in Wei.
 * `v`: `QUANTITY` - ECDSA recovery id
 * `r`: `DATA`, 32 Bytes - ECDSA signature r
-* `s`: `DATA`, 32 Bytes - ECDSA signature&#x20;
+* `s`: `DATA`, 32 Bytes - ECDSA signature
 
 **Example**
 
@@ -779,7 +779,6 @@ curl -X POST --data '{"jsonrpc":"2.0","method":"eth_getTransactionCount","params
   "jsonrpc": "2.0",
   "result": "0x1" // 1
 }
-
 ```
 
 ## eth\_getTransactionReceipt
@@ -812,8 +811,8 @@ params: [
 * `blockNumber`: `QUANTITY` - block number where this transaction was in.
 * `from`: `DATA`, 20 Bytes - address of the sender.
 * `to`: `DATA`, 20 Bytes - address of the receiver. null when its a contract creation transaction.
-* `cumulativeGasUsed` : `QUANTITY`  - The total amount of gas used when this transaction was executed in the block.
-* `gasUsed` : `QUANTITY`  - The amount of gas used by this specific transaction alone.
+* `cumulativeGasUsed` : `QUANTITY` - The total amount of gas used when this transaction was executed in the block.
+* `gasUsed` : `QUANTITY` - The amount of gas used by this specific transaction alone.
 * `contractAddress` : `DATA`, 20 Bytes - The contract address created, if the transaction was a contract creation, otherwise `null`.
 * `logs`: `Array` - Array of log objects, which this transaction generated.
 * `logsBloom`: `DATA`, 256 Bytes - Bloom filter for light clients to quickly retrieve related logs.
@@ -900,7 +899,7 @@ This means to retrieve the storage on `pos1[“0x391694e7e0b0cce554cb130d723a9d2
 keccak(decodeHex("000000000000000000000000391694e7e0b0cce554cb130d723a9d27458f9298" + "0000000000000000000000000000000000000000000000000000000000000001"))
 ```
 
-The `geth` console which comes with the` web3 library` can be used to make the calculation:
+The `geth` console which comes with the `web3 library` can be used to make the calculation:
 
 ```javascript
 > var key = "000000000000000000000000391694e7e0b0cce554cb130d723a9d27458f9298" + "0000000000000000000000000000000000000000000000000000000000000001"
@@ -915,7 +914,6 @@ Now to fetch the storage:
 curl -X POST --data '{"jsonrpc":"2.0", "method": "eth_getStorageAt", "params": ["0x295a70b2de5e3953354a6a8344e616ed314d7251", "0x6661e9d6d8b923d5bbaab1b96e1dd51ff6ea2a93520fdc9eb75d059238b8c5e9", "latest"], "id": 1}' localhost:8545
 
 {"jsonrpc":"2.0","id":1,"result":"0x000000000000000000000000000000000000000000000000000000000000162e"}
-
 ```
 
 ## eth\_sendRawTransaction
@@ -934,7 +932,7 @@ params: ["0xd46e8dd67c5d32be8d46e8dd67c5d32be8058bb8eb970870f072445675058bb8eb97
 
 `DATA`, 32 Bytes - the transaction hash, or the zero hash if the transaction is not yet available.
 
-Use `ethgetTransactionReceipt ` to get the contract address, after the transaction was mined, when you created a contract.
+Use `ethgetTransactionReceipt` to get the contract address, after the transaction was mined, when you created a contract.
 
 **Example**
 
@@ -1003,7 +1001,6 @@ Returns information about an uncle of a block by hash and uncle index position.
 params: [
    '0xc6ef2fc5426d6ad6fd9e2a26abeab0aa2411b7ab17f30a99d3cb96aed1d1055b',
    '0x0' // 0
-
 ```
 
 **Returns**
@@ -1089,7 +1086,6 @@ curl -X POST --data '{"jsonrpc":"2.0","method":"eth_getUncleCountByBlockHash","p
   "id":1,
   "jsonrpc": "2.0",
   "result": "0x1" // 1
-
 ```
 
 ## eth\_getUncleCountByBlockNumber
@@ -1122,13 +1118,12 @@ curl -X POST --data '{"jsonrpc":"2.0","method":"eth_getUncleCountByBlockNumber",
   "jsonrpc": "2.0",
   "result": "0x1" // 1
 }
-
 ```
 
 ## debug\_traceBlock
 
 {% hint style="info" %}
-The `debug` API gives you access to several non-standard RPC methods, which  allow you to inspect, debug and set certain debugging flags during runtime.
+The `debug` API gives you access to several non-standard RPC methods, which allow you to inspect, debug and set certain debugging flags during runtime.
 {% endhint %}
 
 Returns a full stack trace of all invoked opcodes of all transactions that were included in this block.
@@ -1153,8 +1148,6 @@ The parent of this block must be present or it will fail.
 curl --data '{"method":"debug_traceBlockByHash","params":[blockHash, options],"id":1,"jsonrpc":"2.0"}' -H "Content-Type: application/json" -X POST localhost:8545
 ```
 
-
-
 ## debug\_traceBlockByNumber
 
 Accepts a block number and replays the block that is already present in the database.
@@ -1176,7 +1169,7 @@ Accepts a block number and replays the block that is already present in the data
 * `Gas` - Quantity
 * `Failed`- Boolean
 * `ReturnValue`- Data
-* `Entries `- Array
+* `Entries` - Array
 
 #### Example
 
@@ -1288,4 +1281,3 @@ curl -X POST --data '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":
   "result":true
 }
 ```
-

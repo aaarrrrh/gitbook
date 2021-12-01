@@ -20,7 +20,7 @@ _**Read more**_
 [decentralization.md](decentralization.md)
 {% endcontent-ref %}
 
-## **We advocate for the next generation of Internet - Web 3.0 **
+## We advocate for the next generation of Internet - Web 3.0
 
 _**Read more**_
 
@@ -28,14 +28,12 @@ _**Read more**_
 [web-3.0.md](web-3.0.md)
 {% endcontent-ref %}
 
-
-
-****
+***
 
 ###
 
-## &#x20;
+##
 
-### &#x20;
+###
 
 ​
