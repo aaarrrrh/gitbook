@@ -1,51 +1,50 @@
 # Fantom Full Node
 
-Fantom is a high-performance, scalable, customizable, and secure smart-contract platform. Fantom is **permissionless, decentralized,** and **open-source**.&#x20;
+Fantom is a high-performance, scalable, customizable, and secure smart-contract platform. Fantom is **permissionless, decentralized,** and **open-source**.
 
-**Lachesis consensus algorithm:** is an asynchronous, Byzantine Fault-Tolerant algorithm designed to achieve instant transaction finality.&#x20;
+**Lachesis consensus algorithm:** is an asynchronous, Byzantine Fault-Tolerant algorithm designed to achieve instant transaction finality.
 
-The Fantom Opera mainnet has served more than 40M transactions with a daily growth of more than 500k transactions.&#x20;
+The Fantom Opera mainnet has served more than 40M transactions with a daily growth of more than 500k transactions.
 
 ## Quick Links
 
-**Home page**: [https://fantom.foundation](https://fantom.foundation)****
+**Home page**: [https://fantom.foundation](https://fantom.foundation)
 
-**Github**: [https://github.com/Fantom-foundation/](https://github.com/Fantom-foundation/)****
+**Github**: [https://github.com/Fantom-foundation/](https://github.com/Fantom-foundation/)
 
 **Explorers**: [https://explorer.fantom.network](https://explorer.fantom.network) and [https://ftmscan.com](https://ftmscan.com)
 
 **Wallet**: [https://pwawallet.fantom.network](https://pwawallet.fantom.network)
 
-
-
-This guide will walk you through setting up and launching a **Fantom Full Node **that is **Read only. **
+This guide will walk you through setting up and launching a **Fantom Full Node** that is **Read only.**&#x20;
 
 **00 Prerequisites** - Describes recommended and minimum hardware requirements\
-**01 Install Dependencies** - Download all the necessary dependencies required to set up and launch a Fantom Full Node. \
+**01 Install Dependencies** - Download all the necessary dependencies required to set up and launch a Fantom Full Node.\
 **02. Checkout and build go-opera**\
-**03 Launch your Node**\
-****
+**03 Launch your Node**\\
+
+***
 
 ## 00 Prerequisites
 
 **Minimal Hardware Requirements**
 
-4 core \
-****8 RAM \
+4 core\
+8 RAM\
 1.5TB SSD
 
 **Recommended Hardware Requirements**
 
-8 core \
-16 RAM \
+8 core\
+16 RAM\
 1.5TB SSD
 
 Ubuntu Server 20.04 LTS (64-bit).
 
-#### **Network Settings** <a href="network-settings" id="network-settings"></a>
+#### **Network Settings** <a href="#network-settings" id="network-settings"></a>
 
 * Open up **port 22 for SSH**
-* Open** port 5050** for both TCP and UDP traffic.
+* Open\*\* port 5050\*\* for both TCP and UDP traffic.
 
 ## 01 Install Dependencies
 

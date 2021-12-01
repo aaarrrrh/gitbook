@@ -6,7 +6,7 @@ All 3 blockchains are validated and secured by the Primary Network.
 
 Avalanche was built specifically with Defi dApps and protocols in mind, focusing on security, low latency & high throughput. Avalanche uses a novel consensus protocol by utilizing two different consensus mechanisms. The consensus protocol ensures a high degree of security and fast finality even with multiple chains running simultaneously.
 
-## Quick Links
+### Quick Links
 
 [**Avalanche**](https://www.avalabs.org)\
 [**Docs**](https://docs.avax.network/build/avalanchego-apis/issuing-api-calls)\
