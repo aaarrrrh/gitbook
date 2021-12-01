@@ -8,15 +8,15 @@ Polygon, formerly MATIC, is a protocol and a framework for building and connecti
 
 ## **Quick Links**
 
-****[**Polygon**](https://polygon.technology)****\
-****[**Docs**](https://docs.matic.network/docs/develop/getting-started/)****\
-****[**Github**](https://github.com/maticnetwork/)
+[**Polygon**](https://polygon.technology)\
+[**Docs**](https://docs.matic.network/docs/develop/getting-started/)\
+[**Github**](https://github.com/maticnetwork/)
 
 ## **Product Availability on Polygon**
 
-|                      | Ankr Solution  | Network                             | Where                                |
-| -------------------- | -------------- | ----------------------------------- | ------------------------------------ |
-| Polygon Full Node    | Developer API  | <p>Mainnet</p><p>Mumbai Testnet</p> | [app.ankr.com](https://app.ankr.com) |
-| Polygon Archive Node | Developer API  | Mainnet                             | [app.ankr.com](https://app.ankr.com) |
+|                      | Ankr Solution | Network                             | Where                                |
+| -------------------- | ------------- | ----------------------------------- | ------------------------------------ |
+| Polygon Full Node    | Developer API | <p>Mainnet</p><p>Mumbai Testnet</p> | [app.ankr.com](https://app.ankr.com) |
+| Polygon Archive Node | Developer API | Mainnet                             | [app.ankr.com](https://app.ankr.com) |
 
-## &#x20;<a href="network-types-available-on-ankr" id="network-types-available-on-ankr"></a>
+## &#x20;<a href="#network-types-available-on-ankr" id="network-types-available-on-ankr"></a>

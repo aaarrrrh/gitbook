@@ -13,19 +13,16 @@ Fantom Opera is a secure platform to build DApps. It is fully permissionless and
 
 ## Quick Links
 
-[**Fantom**](https://www.fantom.foundation)****\
-****[**Docs**](https://docs.fantom.foundation)****\
-****[**Github**](https://github.com/Fantom-Foundation)
+[**Fantom**](https://www.fantom.foundation)\
+[**Docs**](https://docs.fantom.foundation)\
+[**Github**](https://github.com/Fantom-Foundation)
 
-## **Product Availability **
+## \*\*Product Availability \*\*
 
-| Node      | Ankr Solution  | Network                      | Where                                |
-| --------- | -------------- | ---------------------------- | ------------------------------------ |
-| Full Node | Developer API  | <p>Mainnet</p><p>Testnet</p> | [app.ankr.com](https://app.ankr.com) |
+| Node      | Ankr Solution | Network                      | Where                                |
+| --------- | ------------- | ---------------------------- | ------------------------------------ |
+| Full Node | Developer API | <p>Mainnet</p><p>Testnet</p> | [app.ankr.com](https://app.ankr.com) |
 
-__
+\_\_
 
-
-
-****
-
+***
