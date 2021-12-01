@@ -66,7 +66,7 @@
   * [01 Get Ready](ankr-protocol/providing-infrastructure/01-get-ready.md)
   * [02 Getting Started](ankr-protocol/providing-infrastructure/02-getting-started.md)
 * [How to Integrate](ankr-protocol/how-to-integrate.md)
-* [FAQs](ankr-protocol/faqs/README.md)
+* [FAQs](ankr-protocol/faqs.md)
   * [What is a Public RPC endpoint](ankr-protocol/faqs/what-is-a-public-rpc-endpoint.md)
 
 ## Earn

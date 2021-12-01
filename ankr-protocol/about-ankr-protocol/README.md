@@ -13,7 +13,7 @@ Featuring open access to a Public RPC API layer, Ankr Protocol provides reliable
 Basically, you can utilize the Ankr Protocol to do the following:
 
 1. As a **Provider of Infrastructure** or **Node Owner,** you can opt your node into the Ankr Protocol ⁃ The Protocol registers the node and includes it in the network.
-2. As a **Developer** or **Product Owne**r you can opt it to being a user of the protocol. You can get public or pay 10k ANKR per year for Ankr Premium and get private endpoints to access the Protocol via your dApp.
+2. As a **Developer** or **Product Owne**r you can opt in to being a user of the protocol. You can opt for public RPCs or pay 10k ANKR per year for Ankr Premium and get private endpoints to access the Protocol via your dApp.
 
 The Protocol optimises usage of the blockchain to provide the most efficient response possible by dynamically reducing latency between the user and the nodes.
 
