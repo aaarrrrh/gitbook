@@ -6,14 +6,13 @@ description: >-
 
 # How to stake MATIC
 
-## **01 Connect your Wallet**&#x20;
+## **01 Connect your Wallet**
 
-1\. Visit the [StakeFi ](https://stakefi.ankr.com)app and click the '_**StakeFi Launchpad**_**'** button. \
+1\. Visit the [StakeFi ](https://stakefi.ankr.com)app and click the '_**StakeFi Launchpad**_**'** button.\
 \
-2\. Locate the ‘**Stake MATIC**’ box and click ‘_**Start staking**_’.\
+2\. Locate the ‘**Stake MATIC**’ box and click ‘_**Start staking**_’.\\
 
-
-![](<../../../.gitbook/assets/Screenshot 2021-11-02 at 16.47.41.png>)
+![](<../../../.gitbook/assets/Screenshot 2021-11-02 at 16.47.41 (2).png>)
 
 3\. You are prompted to grant **Ankr Stake Fi** access to your wallet. Click '_**Grant Access**_**'** to proceed.
 
@@ -26,14 +25,14 @@ description: >-
 ## 02 Stake your MATIC
 
 {% hint style="warning" %}
-**BE SURE: **
+\*\*BE SURE: \*\*
 
-_**To allow sufficient MATIC and ETH to cover gas & fees for the transaction  **_
+_\*\*To allow sufficient MATIC and ETH to cover gas & fees for the transaction \*\*_
 
-_****_[_**Find out more**_](https://docs.avax.network/learn/platform-overview/transaction-fees)_** **_
+_\*\*\*\*_[_**Find out more**_](https://docs.avax.network/learn/platform-overview/transaction-fees)_\*\* \*\*_
 {% endhint %}
 
-1. From the **Staking Dashboard**, click the '**+**' button to stake MATIC.&#x20;
+1. From the **Staking Dashboard**, click the '**+**' button to stake MATIC.
 
 ![](<../../../.gitbook/assets/Screenshot 2021-11-03 at 14.15.04.png>)
 
@@ -49,7 +48,7 @@ A small **transaction fee** is charged in ETH
 
 3\. You will need to make the following interactions in your wallet:
 
-** **:thumbsup:**Authorize** to confirm the connection.&#x20;
+\*\* \*\*:thumbsup:**Authorize** to confirm the connection.
 
 :thumbsup: **Approve** the transaction.
 
@@ -58,20 +57,19 @@ A small **transaction fee** is charged in ETH
 {% hint style="warning" %}
 **NOTE**
 
-**Gas fee**s are incurred to finalize the staking transaction.&#x20;
+**Gas fee**s are incurred to finalize the staking transaction.
 {% endhint %}
 
-4\. When the transaction is finalized, the **Staking Dashboard** automatically updates with your **aMATICb liquidity token** balance.&#x20;
+4\. When the transaction is finalized, the **Staking Dashboard** automatically updates with your **aMATICb liquidity token** balance.
 
 ![](<../../../.gitbook/assets/Screenshot 2021-11-03 at 14.46.53.png>)
 
-5\. You are prompted to add your **aMATICb** token to your Metamask Wallet. Click '**Add Token'**.&#x20;
+5\. You are prompted to add your **aMATICb** token to your Metamask Wallet. Click '**Add Token'**.
 
 ![](<../../../.gitbook/assets/Screenshot 2021-11-03 at 14.50.53.png>)
 
 {% hint style="success" %}
 **Success**
 
-Your balance will automatically adjust upwards inside your wallet as you gain rewards.&#x20;
+Your balance will automatically adjust upwards inside your wallet as you gain rewards.
 {% endhint %}
-

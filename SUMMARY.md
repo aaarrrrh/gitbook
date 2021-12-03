@@ -111,6 +111,7 @@
   * [Parachain Liquid Crowdloan Workflow](earn/parachain-bonds/parachain-bond-workflow.md)
   * [Parachain Liquid Crowdloan Market Makers](earn/parachain-bonds/parachain-bond-market-makers-and-fair-value.md)
   * [Parachain SDK](earn/parachain-bonds/parachain-sdk.md)
+* [Trading Cockpit](earn/trading-cockpit.md)
 * [Ankr Boost](earn/stakefi-alpha.md)
 
 ## Enterprise - Web 3.0 Infrastructure <a href="#web-3.0-infrastructure" id="web-3.0-infrastructure"></a>

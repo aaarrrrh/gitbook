@@ -139,18 +139,18 @@ An Internet Bond is a Digital Work Agreement between a Proof-of-Stake (PoS) netw
 
 ### **Liquidity Mining**
 
-Liquidity mining is a term used in DeFi to describe the process of supplying liquidity\* (in the form of crypto assets) to decentralized financial platforms/protocols and in return receiving rewards (usually in the form of tokens) for doing so. \
+Liquidity mining is a term used in DeFi to describe the process of supplying liquidity\* (in the form of crypto assets) to decentralized financial platforms/protocols and in return receiving rewards (usually in the form of tokens) for doing so.\
 \*Supplying liquidity is also known as staking assets.
 
 {% hint style="info" %}
-**NOTE**:  Liquidity Mining is distinct from Yield Farming. Yield farming is a form of staking. Liquidity mining is a subset of yield farming. The main difference is that liquidity providers are compensated not just with fee revenue but also the platform’s own token.
+**NOTE**: Liquidity Mining is distinct from Yield Farming. Yield farming is a form of staking. Liquidity mining is a subset of yield farming. The main difference is that liquidity providers are compensated not just with fee revenue but also the platform’s own token.
 {% endhint %}
 
-This is a quick overview of how it works. (See [**StakeFi**](../earn/about.md) for more details.)&#x20;
+This is a quick overview of how it works. (See [**StakeFi**](../earn/about.md) for more details.)
 
 1\. Buy crypto assets e.g. ETH and/or DAI. (Some protocols require asset pairs).
 
-2\. Find a platform or protocol to deposit your crypto assets on. (See StakeFi)&#x20;
+2\. Find a platform or protocol to deposit your crypto assets on. (See StakeFi)
 
 3\. Typically, you will receive rewards in the form of tokens for depositing assets onto a platform or protocol.
 
@@ -197,7 +197,7 @@ Passive earning refers to the ability to generate income at regular intervals wi
 
 Depositing assets onto a platform or protocol allows you to earn interest on your asset in much the same way as placing money into a savings account.
 
-### ****
+
 
 ### **Proof-of-Work Blockchain**
 
@@ -221,7 +221,7 @@ They can do this in two ways:
 
 Providers can bring CPU, GPU, memory and free storage to connect to the StakeFi infrastructure using ANKR tokens. Providers host new Staking nodes.
 
-&#x20; ** **2. Using Ankr Staking Nodes
+2\. Using Ankr Staking Nodes
 
 Providers DO NOT host staking nodes themselves. They use Ankr staking nodes via sidecars running on an Ethereum 2.0 node.
 
@@ -249,9 +249,7 @@ Ankr users who want to be Providers can install and execute this software to sta
 
 Providers who stake using sidecars are expected to participate in the voting process. For participating in the voting process, the stakers will get rewards in ANKR tokens.
 
-It also randomly chooses other nodes on the Ankr Staking infrastructure, checks their uptime, and reports to the smart contracts.&#x20;
-
-### **Synthetic Tokens (See Internet Bonds)**
+It also randomly chooses other nodes on the Ankr Staking infrastructure, checks their uptime, and reports to the smart contracts.
 
 ### **Stakers AKA Requesters**
 
@@ -284,6 +282,3 @@ Blockchain technology underlies the decentralization that is essential to the fo
 
 Ankr provides Web 3.0 infrastructure for individuals, developers, and enterprises.
 
-### ****
-
-### ****
