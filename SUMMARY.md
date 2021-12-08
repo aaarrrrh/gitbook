@@ -190,6 +190,8 @@
   * [/v1/blocks](nodes/chains-algorand/v1-blocks.md)
   * [Indexer - /{account-id}/transactions](nodes/chains-algorand/indexer-account-id-transactions.md)
 * [Binance Chain](nodes/binance-chain.md)
+* [Binance Smart Chain](nodes/binance-smart-chain/README.md)
+  * [Initial testing of the Erigon BSC Testnet Archive Node](nodes/binance-smart-chain/initial-testing-of-the-erigon-bsc-testnet-archive-node.md)
 * [Bitcoin](nodes/bitcoin.md)
 * [Cardano](nodes/cardano.md)
 * [Celo](nodes/celo.md)

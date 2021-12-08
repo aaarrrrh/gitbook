@@ -2,36 +2,37 @@
 
 ## Introduction
 
-This guide will walk you through setting up and launching a **Fantom Full Node **that is r**ead only. **
+This guide will walk you through setting up and launching a \*\*Fantom Full Node **that is r**ead only. \*\*
 
 ### **Set up Flow**
 
 **00 Prerequisites** - Describes recommended and minimum hardware requirements\
-**01 Install Dependencies** - Download all the necessary dependencies required to set up and launch a Fantom Full Node. \
+**01 Install Dependencies** - Download all the necessary dependencies required to set up and launch a Fantom Full Node.\
 **02. Checkout and build go-opera**\
-**03 Launch your Node**\
-****
+**03 Launch your Node**\\
+
+***
 
 ## 00 Prerequisites
 
 **Minimal Hardware Requirements**
 
-4 core \
-****8 RAM \
+4 core\
+8 RAM\
 1.5TB SSD
 
 **Recommended Hardware Requirements**
 
-8 core \
-16 RAM \
+8 core\
+16 RAM\
 1.5TB SSD
 
 Ubuntu Server 20.04 LTS (64-bit).
 
-#### **Network Settings** <a href="network-settings" id="network-settings"></a>
+#### **Network Settings** <a href="#network-settings" id="network-settings"></a>
 
 * Open up **port 22 for SSH**
-* Open** port 5050** for both TCP and UDP traffic.
+* Open\*\* port 5050\*\* for both TCP and UDP traffic.
 
 ## 01 Install Dependencies
 
