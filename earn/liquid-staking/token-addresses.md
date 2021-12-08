@@ -58,7 +58,7 @@ description: Ankr & Liquid Staking tokens
 
 **Polygon network**
 
-* Ankr Network (**ANKR**):
+* Ankr Network (**ANKR**) - [Polygon Bridge](https://wallet.polygon.technology/bridge):
 
 [0x101A023270368c0D50BFfb62780F4aFd4ea79C35](https://polygonscan.com/token/0x101a023270368c0d50bffb62780f4afd4ea79c35#balances)
 
@@ -67,6 +67,10 @@ description: Ankr & Liquid Staking tokens
 [0xC4e82BA0Fe6763cbE5E9CbCA0ba7cbD6F91C6018](https://polygonscan.com/token/0xc4e82ba0fe6763cbe5e9cbca0ba7cbd6f91c6018#balances)
 
 **Avalanche network**
+
+* Ankr Network (**ANKR**) - [AnySwap Bridge](https://anyswap.exchange/#/bridge) **** :
+
+[0x20cf1b6e9d856321ed4686877cf4538f2c84b4de](https://snowtrace.io/token/0x20cf1b6e9d856321ed4686877cf4538f2c84b4de#balances)
 
 * Ankr Reward-Earning Staked AVAX (**aAVAXb**):
 
