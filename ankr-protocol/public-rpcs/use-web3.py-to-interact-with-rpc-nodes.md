@@ -2,7 +2,7 @@
 description: Use the web3.py library to connect and interact with Ethereum nodes.
 ---
 
-# 🥦 Use web3.py to connect to RPC Eth Node
+# 🐍 Use web3.py to interact with RPC Nodes
 
 You can develop two different types of applications with Ethereum
 
@@ -65,7 +65,9 @@ You could run your own Ethereum node but this requires you to download a HUGE QU
 
 It’s way easier to _**get started straight away with a remote node for free**_.&#x20;
 
-You can use the Ankr Public RPC node for free with the URL
+You can use the Ankr Public RPC node for free with any of our open access public URLs.
+
+In this example, we'll be interacting with the Ethereum Network.&#x20;
 
 **`https://rpc.ankr.com/eth`**
 
@@ -130,7 +132,7 @@ To run the script in the command line, change to its directory and type:
 
 You should see `True` similar to this:
 
-![](<../../../../.gitbook/assets/Screenshot 2021-12-14 at 12.07.03.png>)
+![](<../../.gitbook/assets/Screenshot 2021-12-14 at 12.07.03.png>)
 
 (If you don’t see ‘`true`’, in the first instance troubleshoot your Python installation and consider setting up an environment. (See earlier Note)).&#x20;
 
