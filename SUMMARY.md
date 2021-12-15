@@ -54,6 +54,7 @@
     * [Integrate Code](ankr-protocol/public-rpcs/fantom-rpc/integrate-code.md)
     * [Integrate CLI](ankr-protocol/public-rpcs/fantom-rpc/integrate-cli.md)
     * [Integrate Wallet](ankr-protocol/public-rpcs/fantom-rpc/integrate-wallet.md)
+  * [Near RPC](ankr-protocol/public-rpcs/near-rpc.md)
   * [Polygon RPC](ankr-protocol/public-rpcs/polygon-rpc/README.md)
     * [Integrate Code](ankr-protocol/public-rpcs/polygon-rpc/integrate-code.md)
     * [Integrate CLI](ankr-protocol/public-rpcs/polygon-rpc/integrate-cli.md)
