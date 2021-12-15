@@ -182,7 +182,7 @@
 * [Solana](blockchains/solana.md)
 * [Terra](blockchains/terra/README.md)
   * [Develop on Terra](blockchains/terra/develop-on-terra.md)
-* [xDai](blockchains/xdai/README.md)
+* [Gnosis](blockchains/xdai/README.md)
   * [Develop on xDai](blockchains/xdai/develop-on-xdai.md)
 
 ## Nodes
