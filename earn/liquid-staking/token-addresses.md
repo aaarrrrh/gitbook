@@ -68,7 +68,7 @@ description: Ankr & Liquid Staking tokens
 
 **Avalanche network**
 
-* Ankr Network (**ANKR**) - [AnySwap Bridge](https://anyswap.exchange/#/bridge) **** :
+* Ankr Network (**ANKR**) - [Multichain Cross-Chain Router](https://app.multichain.org/#/router) **** :
 
 [0x20cf1b6e9d856321ed4686877cf4538f2c84b4de](https://snowtrace.io/token/0x20cf1b6e9d856321ed4686877cf4538f2c84b4de#balances)
 
