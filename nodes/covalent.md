@@ -1,6 +1,18 @@
 # Covalent
 
-API Documentation: https://www.covalenthq.com/docs/api/
+Covalent's Unified API allows you to pull detailed, historical and granular blockchain data from multiple blockchains with no code. Covalent allows developers to reduce time, costs and complexity from blockchain application development.
+
+## Node Modes
+
+Covalent has an API Host for all requests.
+
+``[`https://api.covalenthq.com/v1/`](https://api.covalenthq.com/v1/)``
+
+#### Key Features:
+
+* **Automatically indexed:** All code on the underlying blockchain is automatically indexed. Covalent makes an exact replica of every single contract, every wallet and every single transaction to the Covalent database. The Covalent database hosts billions of rows of data and terabytes of data.
+* **No-code:** Covalent offers a "no-code" solution and all customizations can be done without writing a single line of code by the developer.
+* **Multiple blockchains, multiple use cases:** The same unified API works across 15+ blockchains and dozens of use-cases like crypto-wallets, NFT galleries, investor dashboard tools, DAO tooling etc.
 
 The Covalent API has two classes of endpoints:
 

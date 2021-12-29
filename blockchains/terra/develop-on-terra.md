@@ -9,15 +9,11 @@ Ankr allows users to create their own Terra ‘Columbus-4’ network APIs with a
 ### Get started on Terra
 
 1. Login or set up an account on app.ankr.com
-2. [**Create API **](https://app.ankr.com/apps/api)
+2. [Create API](https://app.ankr.com/apps/api)
 
 The official document has more detailed information :
 
 * [docs.terra](https://docs.terra.money)
-* [lcd.terra](https://lcd.terra.dev/swagger-ui/#/)
-* [terra-money/core](https://github.com/terra-money/core)
-* [Terra SDK Python 1.0.0](https://terra-money.github.io/terra-sdk-python/index.html)
-* [Terra.js SDK](https://terra-money.github.io/terra.js/)
 
 ### Network Types Available on Ankr
 
@@ -120,4 +116,3 @@ $ curl -X POST -d '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":
 {% hint style="warning" %}
 **A Websocket (WSS) Endpoint is not currently available on the Terra Network**
 {% endhint %}
-

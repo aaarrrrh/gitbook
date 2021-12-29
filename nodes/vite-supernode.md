@@ -4,7 +4,7 @@ In this tutorial, we will show you how to deploy a Vite Supernode on Ankr and st
 
 We will also guide you on how to move an existing Vite Supernode from your current provider to the Ankr cloud.
 
-## **Deploy a Vite Supernode on Ankr** <a href="deploy-a-vite-supernode-on-ankr" id="deploy-a-vite-supernode-on-ankr"></a>
+## **Deploy a Vite Supernode on Ankr** <a href="#deploy-a-vite-supernode-on-ankr" id="deploy-a-vite-supernode-on-ankr"></a>
 
 1\. Head to [app.ankr.com](http://app.ankr.com) to deploy and click the **Deploy A Node** button.
 
@@ -42,11 +42,11 @@ Your Vite Supernode will now start deploying.
 
 ![](https://ankrcom.intercom-attachments-1.com/i/o/215734322/fc19b46e5cb9d9eb87019365/1-kb\_pp\_bQpzpPKIc1-RH7hw.png)
 
-## **Create a Vite wallet and stake 1,000,000 VITE tokens** <a href="create-a-vite-wallet-and-stake-1-000-000-vite-tokens" id="create-a-vite-wallet-and-stake-1-000-000-vite-tokens"></a>
+## **Create a Vite wallet and stake 1,000,000 VITE tokens** <a href="#create-a-vite-wallet-and-stake-1-000-000-vite-tokens" id="create-a-vite-wallet-and-stake-1-000-000-vite-tokens"></a>
 
 In order to register a Vite Supernode and be eligible to become a Snapshot Block Producer (SBP), you need to stake 1.000.000 VITE tokens.
 
-1\. First, download the official Vite Wallet for Android or IOS [here](https://vite.org/products#wallet) and deposit 1,000,000 VITE tokens on it.
+1\. First, download the official Vite Wallet for Android or IOS [here](https://x.vite.net/startLogin) and deposit 1,000,000 VITE tokens on it.
 
 You can buy VITE tokens on various exchanges, such as [Binance.com](https://www.binance.com/en/trade/pro/VITE\_USDT).
 
@@ -60,7 +60,7 @@ After scanning the QR code you should end up on the following page in your brows
 
 ![](https://ankrcom.intercom-attachments-1.com/i/o/215734326/04a834128fcaad77acf1302b/1-Q-pWXSsZknkzXfmmnusAvA.png)
 
-## **Stake your VITE tokens to register as a Supernode** <a href="stake-your-vite-tokens-to-register-as-a-supernode" id="stake-your-vite-tokens-to-register-as-a-supernode"></a>
+## **Stake your VITE tokens to register as a Supernode** <a href="#stake-your-vite-tokens-to-register-as-a-supernode" id="stake-your-vite-tokens-to-register-as-a-supernode"></a>
 
 The next step is to stake the 1,000,000 VITE tokens in the [Vite Web Application](https://wallet.vite.net/startLogin).
 
@@ -92,7 +92,7 @@ Once confirmed, your Vite Supernode successfully registered and ready to receive
 
 Please note that you will start receiving Supernode rewards after the node has been fully synced, which is expected to take up to 5 days.
 
-## **Move your existing Vite Supernode to Ankr** <a href="move-your-existing-vite-supernode-to-ankr" id="move-your-existing-vite-supernode-to-ankr"></a>
+## **Move your existing Vite Supernode to Ankr** <a href="#move-your-existing-vite-supernode-to-ankr" id="move-your-existing-vite-supernode-to-ankr"></a>
 
 Moving your existing Vite Supernode to Ankr will have some interesting benefits:
 
@@ -116,7 +116,7 @@ To cancel registration for your current Supernode, please follow the steps below
 
 ![](https://ankrcom.intercom-attachments-1.com/i/o/215734340/93a2eb40178055beb809ccda/1-yIzqnFfXgJ81Lbzu9JS4Hg.png)
 
-3\. Click the **Cancel Registration** button, which will appear in the **Registration Information** box**,** in the **Action** column.
+3\. Click the **Cancel Registration** button, which will appear in the **Registration Information** box\*\*,\*\* in the **Action** column.
 
 ![](https://ankrcom.intercom-attachments-1.com/i/o/215734341/3e475fa49232990393f19e36/1-1Si07kALbKi7TEL02HZL0A.png)
 

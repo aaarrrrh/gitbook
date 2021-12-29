@@ -31,7 +31,7 @@ For example,
 3. I can harvest the farmed tokens and stake those tokens to earn more yield, or simply sell them to buy more AVAX and aAVAXb to generate more yield. Repeating this operation periodically will add a compounding effect on my yield.
 
 {% hint style="info" %}
-\*\*NOTE: \*\*
+**NOTE**:
 
 There are two types of liquid staking tokens:
 
@@ -49,7 +49,7 @@ When tokenizing staked ETH, the main benefit is liquidity as it is not possible 
 
 For other native tokens from other Blockchains such as Avalanche, there are other benefits in using liquid staking from tokens from blockchains allowing unstaking, is the Elastic Supply of Liquid Staking tokens.
 
-elastic supply tokens work in such a way that the circulating supply expands or contracts to offset changes in a token's price via rebasing. In the context of Avalanche liquid staking for example, when a user stakes in Ankr StakeFi, the circulating supply of aAVAXb increases. When a user wants to unstake Avalanche tokens in Ankr StakeFi, returning aAVAXb to Ankr StakeFi is required. aAVAXb will be burnt and AVAX will be returned to the user.
+Elastic supply tokens work in such a way that the circulating supply expands or contracts to offset changes in a token's price via rebasing. In the context of Avalanche liquid staking for example, when a user stakes in Ankr StakeFi, the circulating supply of aAVAXb increases. When a user wants to unstake Avalanche tokens in Ankr StakeFi, returning aAVAXb to Ankr StakeFi is required. aAVAXb will be burnt and AVAX will be returned to the user.
 
 The Elastic supply feature of liquid staking has an important impact on the price staking of liquid staking tokens. With ETH liquid staking, the main factor of price stability is the amount of liquid in DEXs. With AVAX liquid staking, the price stability becomes less dependent on the amount of liquidity on a DEX because any price deviation of aAVAXb create a trading opportunity for other users that might want to buy aAVAXb at a discount, and return aAVAXb to Ankr StakeFi (unstake) to claim the aAVAXb fair value, realizing a gain after waiting the unstaking lock-up period, which is up to 28 days for aAVAXb.
 

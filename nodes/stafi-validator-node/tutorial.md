@@ -4,9 +4,11 @@ description: How to deploy a Stafi Validator Node on Ankr
 
 # Tutorial
 
-### **Set up your** Stafi Validator Node **on Ankr ** <a href="2e0e" id="2e0e"></a>
+### **Set up your** Stafi Validator Node on Ankr  <a href="#2e0e" id="2e0e"></a>
 
-_**Introduction: **Stafi protocol is the first decentralized protocol unlocking liquidity of Staked assets.Stafi aims to solve the contradiction between Mainnet security  and token liquidity  in PoS consensus. The token holders are staking through staking contracts built in Stafi protocol, and then get alternative tokens(rToken ,such as rXTZ, rAtom, rDot, etc.), rTokens are tradable and it can get staking rewards from original chain at the same time. _
+### Introduction:&#x20;
+
+Stafi protocol is the first decentralized protocol unlocking liquidity of Staked assets.Stafi aims to solve the contradiction between Mainnet security and token liquidity in PoS consensus. The token holders are staking through staking contracts built in Stafi protocol, and then get alternative tokens(rToken ,such as rXTZ, rAtom, rDot, etc.), rTokens are tradable and it can get staking rewards from original chain at the same time. \_
 
 1\. Head to [app.ankr.com](http://app.ankr.com) to deploy and click the **Deploy A Node** button.
 
@@ -26,7 +28,7 @@ _**Introduction: **Stafi protocol is the first decentralized protocol unlocking 
 
 ![](<../../.gitbook/assets/image (28).png>)
 
-6\. Select Payment Method, choose number of months you want to run the node by moving the slider. The price and discount will increase when you extend the run time. &#x20;
+6\. Select Payment Method, choose number of months you want to run the node by moving the slider. The price and discount will increase when you extend the run time.
 
 If later on you want to extend the node’s run time, you can add funds at any time.
 
@@ -48,18 +50,18 @@ If later on you want to extend the node’s run time, you can add funds at any t
 
 ![](<../../.gitbook/assets/image (25).png>)
 
-11\. If all information is provided successfully the deployment will of the node will start&#x20;
+11\. If all information is provided successfully the deployment will of the node will start
 
 ![](<../../.gitbook/assets/image (36).png>)
 
 12\. Your node is now deployed and will sync with the network
 
-13\. On the information tab you will find** Status **of your node, the **Name** of your node and the **Session Key**
+13\. On the information tab you will find\*\* Status \*\*of your node, the **Name** of your node and the **Session Key**
 
 ![](<../../.gitbook/assets/image (62).png>)
 
 Your node is up and running, now we need to get validator status.\
-All details can be found using the following link: [https://docs.stafi.io/validator-sv/become-a-validator](https://docs.stafi.io/validator-sv/become-a-validator)\
+All details can be found using the following link: [https://docs.stafi.io/](https://docs.stafi.io)\
 \
 Below some high level steps to become a validator.
 
@@ -77,7 +79,7 @@ Stafi Portal:
 
 ![](<../../.gitbook/assets/image (32).png>)
 
-16\. Now you are reading for validating.&#x20;
+16\. Now you are reading for validating.
 
 Verify that your node is live and synchronized, head to Telemetry in Stafi Portal and find your node. Note that this will show all nodes on the Stafi network, which is why it is important to select a unique name in the Ankr app.
 

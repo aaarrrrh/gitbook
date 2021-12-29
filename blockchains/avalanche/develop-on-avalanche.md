@@ -5,7 +5,7 @@ Ankr allows users to create their own Avalanche APIs with a variety of options f
 ### Get started on Avalanche
 
 1. Login or set up an account on app.ankr.com
-2. [**Create API **](https://app.ankr.com/apps/api)
+2. [Create API](https://app.ankr.com/apps/api)
 
 ### Network Types Available on Ankr
 
@@ -22,4 +22,3 @@ Ankr allows users to create their own Avalanche APIs with a variety of options f
 ### API & JSON-RPC Methods
 
 Avalanche docs: [https://docs.avax.network/build/avalanchego-apis/issuing-api-calls](https://docs.avax.network/build/avalanchego-apis/issuing-api-calls)
-

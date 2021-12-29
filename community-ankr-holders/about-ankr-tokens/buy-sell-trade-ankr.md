@@ -28,7 +28,6 @@ Kraken: [https://www.kraken.com/en-us/prices/ankr-price-chart](https://www.krake
 ### Official Decentralized Exchanges:
 
 1inch: [https://app.1inch.io/#/1/classic/swap/ANKR/ETH](https://app.1inch.io/#/1/classic/swap/ANKR/ETH)\
-Bancor: [https://app.bancor.network/eth/data/](https://app.bancor.network/eth/data/) (Search for ANKR to find the ANKR/BNT pair)\
 PancakeSwap: [https://pancakeswap.info/pool/0x3147f98b8f9c53acdf8f16332ead12b592a1a4ae](https://pancakeswap.info/pool/0x3147f98b8f9c53acdf8f16332ead12b592a1a4ae)\
 SushiSwap (ETH): [https://analytics.sushi.com/pairs/0x1241f4a348162d99379a23e73926cf0bfcbf131e](https://analytics.sushi.com/pairs/0x1241f4a348162d99379a23e73926cf0bfcbf131e)\
 Uniswap v3: [https://info.uniswap.org/#/pools/0x13dc0a39dc00f394e030b97b0b569dedbe634c0d](https://info.uniswap.org/#/pools/0x13dc0a39dc00f394e030b97b0b569dedbe634c0d)\

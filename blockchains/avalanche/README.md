@@ -21,11 +21,11 @@ Access your own Avalanche APIs & Nodes with Ankr
 
 ## Product Availability
 
-|                | Ankr Solution              | Network | Where                                                  |
-| -------------- | -------------------------- | ------- | ------------------------------------------------------ |
-| Archive Node   | Developer API              | Mainnet | [app.ankr.com](https://app.ankr.com)                   |
-| Validator Node | Validator Node             | Mainnet | [app.ankr.com](https://app.ankr.com/apps/validators)   |
-| Liquid Staking | AVAX\*\* \*\*Internet Bond |         | [StakeFi](https://stakefi.ankr.com/internet-bonds/ETH) |
+|                | Ankr Solution      | Network | Where                                                |
+| -------------- | ------------------ | ------- | ---------------------------------------------------- |
+| Archive Node   | Developer API      | Mainnet | [app.ankr.com](https://app.ankr.com)                 |
+| Validator Node | Validator Node     | Mainnet | [app.ankr.com](https://app.ankr.com/apps/validators) |
+| Liquid Staking | AVAX Internet Bond |         | [Ankr Earn](https://stakefi.ankr.com/liquid-staking) |
 
 _\*Currently available only on our managed node service_
 

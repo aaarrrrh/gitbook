@@ -12,22 +12,16 @@ Clover Finance describes itself as a foundational layer for cross-chain compatib
 
 ### Quick Links
 
-[**Clover**](https://clover.finance)****\
-****[**Docs**](https://docs.clover.finance)****\
-****[**Github**](https://github.com/clover-network)
+[**Clover**](https://clover.finance)\
+[**Docs**](https://docs.clover.finance)\
+[**Github**](https://github.com/clover-network)
 
-## **Product Availability **
+## Product Availability
 
-| Node      | Ankr Solution  | Network | Where                                |
-| --------- | -------------- | ------- | ------------------------------------ |
-| Full Node | Developer API  | Mainnet | [app.ankr.com](https://app.ankr.com) |
-
-__
-
-\
+| Node      | Ankr Solution | Network | Where                                |
+| --------- | ------------- | ------- | ------------------------------------ |
+| Full Node | Developer API | Mainnet | [app.ankr.com](https://app.ankr.com) |
 
 
-****\
-****\
-****\
-****
+
+***

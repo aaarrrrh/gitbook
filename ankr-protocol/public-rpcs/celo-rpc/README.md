@@ -9,5 +9,5 @@ All the cryptoassets on Celo have ERC-20 compliant interfaces, meaning that whil
 ## Quick Links
 
 [**Celo**](https://celo.org)\
-[**Docs**](https://docs.celo.org/developer-guide/overview)\
+**Docs**\
 [**Github**](https://github.com/celo-org)****

@@ -1,6 +1,6 @@
 # Liquidity Mining with Liquid Staking Tokens
 
-### How to provide liquidity to\*\* **liquid staking tokens** on Decentralized Exchanges (DEXs)\*\*
+### How to provide liquidity to **liquid staking tokens** on Decentralized Exchanges (DEXs)
 
 Currently, you can trade and provide liquidity to the following DEXs:
 
@@ -15,7 +15,7 @@ Currently, you can trade and provide liquidity to the following DEXs:
 | <p><a href="https://pangolin.exchange"><strong>Pangolin</strong></a><br><em>Avalanche</em></p>                | n/a                                                                                        | n/a                                                                                 | n/a                                                                                | [Yes](https://info.pangolin.exchange/#/pair/0xaa9a58792cbfa3de9cef36a5cf0e3608a6a106b7) | n/a                                |
 | <p><a href="https://www.lydia.finance"><strong>Lydia Finance</strong></a><br><em>Avalanche</em></p>           | n/a                                                                                        | n/a                                                                                 | n/a                                                                                | [Yes](https://info.lydia.finance/#/pair/0xba4486e7a6f74be11fb7159d205f876168c906aa)     | n/a                                |
 | <p><strong></strong><a href="https://traderjoe.xyz"><strong>TraderJoe</strong></a><br><em>Avalanche</em></p>  | [Yes](https://analytics.traderjoexyz.com/pairs/0x754a67d24fa2cc9caa9596566dd72f44c32a7afc) | n/a                                                                                 | n/a                                                                                | n/a                                                                                     | n/aes                              |
-| <p><a href="https://quickswap.exchange"><strong>QuickSwap</strong></a><br><em>Polygon</em></p>                | [Yes](https://info.quickswap.exchange/pair/0x54db9acc40fd2ce8048fc36330502eedcecb71ba)     | n/a                                                                                 | n/a                                                                                | n/a                                                                                     | n/a                                |
+| <p><a href="https://quickswap.exchange"><strong>QuickSwap</strong></a><br><em>Polygon</em></p>                | n/a                                                                                        | n/a                                                                                 | n/a                                                                                | n/a                                                                                     | n/a                                |
 
 {% hint style="info" %}
 **NOTE**:

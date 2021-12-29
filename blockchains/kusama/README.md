@@ -17,20 +17,18 @@ Explore the network, on-chain governance, and parachains with Ankr’s nodes and
 
 ### Quick Links
 
-​[**Kusama**](https://kusama.network)****\
-****[**Docs**](https://guide.kusama.network/docs/kusama-index)****\
-****[**Github**](https://github.com/paritytech)****
+​[**Kusama**](https://kusama.network)\
+[**Docs**](https://guide.kusama.network/docs/kusama-getting-started)\
+[**Github**](https://github.com/paritytech)
 
-## **Product Availability **
+## Product Availability&#x20;
 
-{% hint style="warning" %}
-Internet Parachain Bonds are **COMING SOON!**
-{% endhint %}
 
-| Node             | Ankr Solution    | Networks | Where                                                  |
-| ---------------- | ---------------- | -------- | ------------------------------------------------------ |
-| Relay Chain      | Developer API    | Mainnet  | [app.ankr.com](https://app.ankr.com)                   |
-| Validator Node   |                  |          | [Contact Sales](mailto:sales@ankr.com)                 |
-| Internet Bonds\* | Parachain Bonds  |          | [StakeFi](https://stakefi.ankr.com/internet-bonds/ETH) |
 
-## **** **** ****
+| Node             | Ankr Solution   | Networks | Where                                                  |
+| ---------------- | --------------- | -------- | ------------------------------------------------------ |
+| Relay Chain      | Developer API   | Mainnet  | [app.ankr.com](https://app.ankr.com)                   |
+| Validator Node   |                 |          | [Contact Sales](mailto:sales@ankr.com)                 |
+| Internet Bonds\* | Parachain Bonds |          | [StakeFi](https://stakefi.ankr.com/internet-bonds/ETH) |
+
+## \*\*\*\* \*\*\*\* \*\*\*\*

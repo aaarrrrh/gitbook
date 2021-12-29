@@ -2,39 +2,12 @@
 description: How to check if the node is working properly
 ---
 
-# Node Test
+# Access Node Endpoint
 
-## Check if the node is working properly
+## Get the Endpoint URL <a href="#get-the-endpoint-url" id="get-the-endpoint-url"></a>
 
-The first test would be to see if rewards are sent. This can be seen be accessing: [https://stake-nu.nucypher.community/](https://stake-nu.nucypher.community)\
-\
-After connecting with Metamask, you can go on the History tab to see if any transactions / rewards are made by the worker node. A succesful worker node should look like this:
+After successfully deploying an endpoint for Ankr you can get the endpoint from the Application details section as seen below:
 
-![](broken-reference)
+The Endpoint URL will have the following format:_**http://\<your\_app\_id>.ankr.com**_Example (as shown in the image above):http://app-5505bb25-0d87-4a27-98f0-13de2d2ae8d3.cls-dec3c32b-4f06-462f-b827-dee931d39a72.ankr.com
 
-
-
-If Worker activity is not confirmed / rewards are not sent, we can look into the Prometheus Endpoint:
-
-![](broken-reference)
-
-In the Prometheus link, you can observe this address:
-
-![](broken-reference)
-
-Using that address you can access this page for giving the status report about the worker node, in my example, it would be:\
-[https://23.19.61.172:9151/status](https://23.19.61.172:9151/status)
-
-![](broken-reference)
-
-In the next version, we will expose that website directly from the Ankr UI for a fast debugging of the node.\
-\
-Last, but not least, the fastest way to see if the node is working properly is to look for the transactions made by the worker, using etherescan and the worker eth address, in my example, a working node would have the following transactions:
-
-![](broken-reference)
-
-If I click on one outgoing transactions, we should see the following Function being called (commitToNextPeriod()):
-
-![](broken-reference)
-
-That function tells the NuCypher Smartcontract that the NuCypher Worker node is working properly.
+![](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MF6NYa65t3TUvQZ0zRX%2F-MXWnS9id2N-s4A7eO61%2F-MXWo6vnWdVIoYg1j\_\_e%2FScreen%20Shot%202021-04-05%20at%202.26.55%20PM.png?alt=media\&token=a0c197b7-2483-4d69-9446-c47ed3887156)

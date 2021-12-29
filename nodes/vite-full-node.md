@@ -2,9 +2,9 @@
 
 In this tutorial, we will show you how to run a Vite Full node and stake 10,000 VITE tokens in order to earn Full node staking rewards.
 
-## **Create a Vite Wallet** <a href="create-a-vite-wallet" id="create-a-vite-wallet"></a>
+## **Create a Vite Wallet** <a href="#create-a-vite-wallet" id="create-a-vite-wallet"></a>
 
-1\. First, download the official Vite Wallet for Android or IOS [here](https://vite.org/products#wallet) and deposit 10,000 VITE tokens on it.
+1\. First, download the official Vite Wallet for Android or IOS [here](https://x.vite.net/startLogin) and deposit 10,000 VITE tokens on it.
 
 You can buy VITE tokens on various exchanges, such as [Binance.com](https://www.binance.com/en/trade/pro/VITE\_USDT).
 
@@ -18,7 +18,7 @@ After scanning the QR code you should end up on the following page in your brows
 
 ![](https://ankrcom.intercom-attachments-1.com/i/o/215733887/db7e5c29af4f480f6090ca2b/1-Q-pWXSsZknkzXfmmnusAvA.png)
 
-## **Stake your VITE tokens** <a href="stake-your-vite-tokens" id="stake-your-vite-tokens"></a>
+## **Stake your VITE tokens** <a href="#stake-your-vite-tokens" id="stake-your-vite-tokens"></a>
 
 The next step is to stake the 10,000 VITE tokens inside the [Vite Web Application](https://wallet.vite.net/startLogin).
 
@@ -26,7 +26,7 @@ The next step is to stake the 10,000 VITE tokens inside the [Vite Web Applicatio
 
 ![](https://ankrcom.intercom-attachments-1.com/i/o/215733890/1baa262f1ebc8c54a879a8f3/1-da56GsyvneeuZy\_nPbopZQ.png)
 
-2\. Click on **Full Nodes** tab and insert the number of VITE tokens you would like to stake (this must be a minimum of 10,000) and click **Submit Staking** to proceed**.**
+2\. Click on **Full Nodes** tab and insert the number of VITE tokens you would like to stake (this must be a minimum of 10,000) and click **Submit Staking** to proceed\*\*.\*\*
 
 ![](https://ankrcom.intercom-attachments-1.com/i/o/215733894/b1c4f923069e00538a425055/1-MIM2otSC-vbfMtx2pA-\_jQ.png)
 
@@ -40,7 +40,7 @@ After approval in the mobile Vite Wallet App, the confirmation should look like 
 
 Congratulations, you have successfully staked 10,000 VITE tokens and are now set to receive rewards on your Vite Full node!
 
-## **Set up the Vite Full node on Ankr** <a href="set-up-the-vite-full-node-on-ankr" id="set-up-the-vite-full-node-on-ankr"></a>
+## **Set up the Vite Full node on Ankr** <a href="#set-up-the-vite-full-node-on-ankr" id="set-up-the-vite-full-node-on-ankr"></a>
 
 To be eligible for receiving staking rewards you need to run a Vite Full node. The easiest way to do this is on the Ankr cloud.
 

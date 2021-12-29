@@ -10,14 +10,14 @@ Terra is a global blockchain payment network and DeFi system built on top of Cos
 
 ### Quick Links
 
-Terra\
+[**Terra**](https://www.terra.money)\
 [**Docs**](https://docs.terra.money)\
-[**Github**](https://github.com/terra-money/core)****
+[**Github**](https://github.com/terra-money/core)
 
 ## **Product Availability**
 
-|                 | Ankr Solution  | Network    | Where                                |
-| --------------- | -------------- | ---------- | ------------------------------------ |
-| Terra Full Node | Developer API  | Columbus-4 | [app.ankr.com](https://app.ankr.com) |
+|                 | Ankr Solution | Network    | Where                                |
+| --------------- | ------------- | ---------- | ------------------------------------ |
+| Terra Full Node | Developer API | Columbus-4 | [app.ankr.com](https://app.ankr.com) |
 
-Terra refers to Ankr's Developer API solution as a "remote full node" operator.&#x20;
+Terra refers to Ankr's Developer API solution as a "remote full node" operator.
