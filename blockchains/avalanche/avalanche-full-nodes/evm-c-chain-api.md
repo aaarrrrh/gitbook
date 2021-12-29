@@ -1,10 +1,10 @@
 # EVM (C-Chain) API
 
-## Deploying a Smart Contract <a href="deploying-a-smart-contract" id="deploying-a-smart-contract"></a>
+## Deploying a Smart Contract <a href="#deploying-a-smart-contract" id="deploying-a-smart-contract"></a>
 
-For a tutorial on deploying a Solidity smart contract on the C-Chain, see [here.](https://docs.avax.network/v1.0/en/tutorials/deploy-a-smart-contract/)​
+For a tutorial on deploying a Solidity smart contract on the C-Chain, see [here.](https://docs.avax.network/build/tutorials/smart-contracts/deploy-a-smart-contract-on-avalanche-using-remix-and-metamask)​
 
-## Methods <a href="methods" id="methods"></a>
+## Methods <a href="#methods" id="methods"></a>
 
 This API is identical to Geth’s API except that it only supports the following services:
 
@@ -16,17 +16,17 @@ This API is identical to Geth’s API except that it only supports the following
 
 You can interact with these services the same exact way you’d interact with Geth. See the [Ethereum Wiki’s JSON-RPC Documentation](https://eth.wiki/json-rpc/API) and [Geth’s JSON-RPC Documentation](https://geth.ethereum.org/docs/rpc/server) for a full description of this API.
 
-## JSON-RPC Endpoints <a href="json-rpc-endpoints" id="json-rpc-endpoints"></a>
+## JSON-RPC Endpoints <a href="#json-rpc-endpoints" id="json-rpc-endpoints"></a>
 
 To interact with C-Chain (the main EVM instance on Avalanche):
 
 To interact with other instances of the EVM:
 
-## Examples <a href="examples" id="examples"></a>
+## Examples <a href="#examples" id="examples"></a>
 
-### Getting the current client version <a href="getting-the-current-client-version" id="getting-the-current-client-version"></a>
+### Getting the current client version <a href="#getting-the-current-client-version" id="getting-the-current-client-version"></a>
 
-## **Example Call** <a href="example-call" id="example-call"></a>
+## **Example Call** <a href="#example-call" id="example-call"></a>
 
 ```javascript
 //Request
