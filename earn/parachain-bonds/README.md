@@ -41,4 +41,3 @@ For liquidity, the Parachain Liquid Crowdloan token holders will be able to eith
 
 Parachain Liquid Crowdloans are available [here](https://stakefi.ankr.com/parachain-bonds)!
 
-Visit [https://stakefi.ankr.com/parachain-bonds](https://stakefi.ankr.com/parachain-bonds) to get involved and follow the [guide on how to participate](broken-reference/)

@@ -3,7 +3,7 @@
 **ANKR** Tokens can be bought and traded at most popular crypto exchanges. As an ERC-20 token,  ANKR can be stored on any ERC20 compatible wallet, Centralized Exchange, or DEX.
 
 {% hint style="success" %}
-UPDATE: 9th December 2021\
+UPDATE: 29th December 2021\
 
 
 \- ANKR token has been bridged to **Avalanche** with the support of [AnySwap Bridge](https://anyswap.exchange/#/bridge)&#x20;
@@ -11,8 +11,6 @@ UPDATE: 9th December 2021\
 \- ANKR token can be traded on [TraderJoe ](https://analytics.traderjoexyz.com/pairs/0x754a67d24fa2cc9caa9596566dd72f44c32a7afc)
 
 \- ANKR token has been bridged to **Polygon** with the support of [Polygon Bridge](https://wallet.polygon.technology/bridge/)&#x20;
-
-\- ANKR token can be traded on [QuickSwap](https://info.quickswap.exchange/pair/0x54db9acc40fd2ce8048fc36330502eedcecb71ba)&#x20;
 {% endhint %}
 
 ### Official Centralized Exchanges:
