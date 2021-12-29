@@ -75,3 +75,9 @@ description: Ankr & Liquid Staking tokens
 * Ankr Reward-Earning Staked AVAX (**aAVAXb**):
 
 [0x6C6f910A79639dcC94b4feEF59Ff507c2E843929](https://snowtrace.io/token/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929)
+
+**Fantom network**
+
+* Ankr Network (**ANKR**) - [Multichain Cross-Chain Router](https://app.multichain.org/#/router) **** :
+
+[0x0615dbba33fe61a31c7ed131bda6655ed76748b1](https://ftmscan.com/token/0x0615dbba33fe61a31c7ed131bda6655ed76748b1)
