@@ -12,7 +12,7 @@ Our Web 3.0 infrastructure-as-a-service model provides enterprises with a range 
 
 Ankr has been designed from the ground up to be robust, reliable and secure. This is demonstrated by our proven track record and industry adoption of our distributed cloud computing networks for building blockchain applications.
 
-> ### A\_nkr are recognized experts in the creation and management of distributed cloud computing networks.\_
+> ### Ankr are recognized experts in the creation and management of distributed cloud computing networks.\_
 
 ### **What is Web 3.0 Infrastructure-as-a-service?**
 

@@ -34,16 +34,16 @@ Ankr Staking solutions or [StakeFi solutions](earn/about.md) are designed for th
 {% tab title="Enterprise" %}
 [Ankr for Enterprise](web-3.0-infrastructure/about-web-3.0-infrastructure-services.md) provides turnkey infrastructure solutions for businesses seeking to integrate blockchain systems. Ankr has the expertise, tools and infrastructure to provide a range of options to suit your needs.
 
-{% content-ref url="broken-reference/" %}
-[broken-reference](broken-reference/)
+{% content-ref url="web-3.0-infrastructure/about-web-3.0-infrastructure-services.md" %}
+[about-web-3.0-infrastructure-services.md](web-3.0-infrastructure/about-web-3.0-infrastructure-services.md)
 {% endcontent-ref %}
 {% endtab %}
 
 {% tab title="Community" %}
 [ANKR tokens](community-ankr-holders/about-ankr-tokens/) are for the Ankr community to participate and pay for Ankr services as well as have a say in the governance of the Ankr Network.
 
-{% content-ref url="broken-reference/" %}
-[broken-reference](broken-reference/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
