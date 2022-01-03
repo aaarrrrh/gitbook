@@ -70,5 +70,3 @@ Our focus going forward is to progress our collaboration with the Binance Smart 
 1\. Continue to improve the performance of Erigon for BSC by utilizing full multi-core CPU capacity.
 
 2\. Enable Validator mode
-
-3\. Development of BSC 2.0
