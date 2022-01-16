@@ -1,8 +1,6 @@
 # Ankr Earn Brand Assets
 
-
-
-**Ankr StakeFi Brand Assets - Liquid Staking Tokens Logos**
+**Ankr Earn Brand Assets - Liquid Staking Tokens Logos**
 
 * [ankr.png](https://cryptologos.cc/logos/ankr-ankr-logo.png?v=014)
 * [ankr.svg](https://cryptologos.cc/logos/ankr-ankr-logo.svg?v=014)
@@ -19,9 +17,7 @@
 * [aKSMb.png](https://cdn.stkr.io/assets/token\_logo/raw/aKSMb.png)
 * [aKSMb.svg](https://cdn.stkr.io/assets/token\_logo/raw/aKSMb.svg)
 
-
-
-**Ankr StakeFi Brand Assets - Liquid Staking Tokens Logo (256 \* 256 transparent png)**
+**Ankr Earn Brand Assets - Liquid Staking Tokens Logo (256 \* 256 transparent png)**
 
 * [ankr.png](https://cdn.stkr.io/assets/token\_logo/etherscan/ankr.png)
 * [aETHb.png](https://cdn.stkr.io/assets/token\_logo/etherscan/aETHb.png)
