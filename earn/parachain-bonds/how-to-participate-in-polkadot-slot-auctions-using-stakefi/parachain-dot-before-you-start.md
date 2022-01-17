@@ -10,12 +10,13 @@ Let's get you prepared for Polkadot Slot Auctions and Parachain Liquid Bonding.
 1. You are using a Chrome Browser.
 2. You have a \*\*Polkadot wallet \*\*chrome extension installed.
 3. You have the required amount of DOT you wish to contribute in your **Polkadot wallet** (chrome extension) plus an amount for gas fees.
-4. You have a **Metamask wallet**.
+4. You have an **Ethereum wallet**.
+5. OPTION: You can use a Ledger Nano X
 {% endhint %}
 
 ### 01 Install Polkadot Wallet
 
-1. Go to the [**Chrome Store and access the Polkadot Wallet**](https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd)\*\* \*\*
+1. Go to the [**Chrome Store and access the Polkadot Wallet**](https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd)
 2. Click '_**Add to Chrome**_'.
 
 ![](<../../../.gitbook/assets/image (7).png>)
