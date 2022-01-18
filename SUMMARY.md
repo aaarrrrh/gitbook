@@ -92,6 +92,7 @@
     * [Where to get MATIC](earn/liquid-staking/polygon/where-to-get-matic.md)
     * [How to stake MATIC](earn/liquid-staking/polygon/stake.md)
     * [How to unstake MATIC](earn/liquid-staking/polygon/how-to-unstake-matic.md)
+    * [MATIC FAQs](earn/liquid-staking/polygon/matic-faqs.md)
   * [Polkadot Liquid Staking](earn/liquid-staking/polkadot/README.md)
     * [DOT - Before you start](earn/liquid-staking/polkadot/get-started.md)
     * [How to stake DOT](earn/liquid-staking/polkadot/stake.md)
