@@ -37,26 +37,44 @@ Unstaking takes approximately 9 days (80 checkpoints). \
 
 aMATICb rewards arrive in your wallet with every rebase. Rebasing occurs daily.&#x20;
 
+****[**What is rebasing?**](https://docs.ankr.com/resources/glossary#rebase-or-rebasing)&#x20;
 
+### Q. How do I receive rewards?
 
-&#x20;
+### A.
 
-Q.) How do I receive rewards?
+&#x20;A rebase runs daily and rewards are received each time this runs. You receive these rewards directly to your wallet - assuming you hold aMATICb.
 
-A.) A rebase runs daily and rewards are received each time this runs. You will receive these rewards provided you hold aMATICb in your wallet.
+[**What is rebasing?**](https://docs.ankr.com/resources/glossary#rebase-or-rebasing)&#x20;
 
-&#x20;
+### Q. What determines the amount of reward I receive each rebase?
 
-Q.) What determines the amount of reward I receive each rebase?
+A.) Rewards for your staked MATIC are received at each check point (epoch) in the MATIC protocol. In most cases the duration of the epoch is less than 30 minutes.
 
-A.) It depends on the average staking period of Ankr Earn validator nodes, as well as MATIC total supply and size of the future instant liquidity pool (indirect cost for aMATICb holders).
+At this point your total reward amount is based on the share of MATIC you have staked as a fraction of the total MATIC value controlled by Ankr Earn.&#x20;
 
-&#x20;
+The rebase happens every 24 hours with a target price of 1 staked MATIC.&#x20;
 
-Q.) Are there any docs about the MATIC staking and how I set up my wallet etc?
+If you have staked MATIC and claimed aMATICb tokens in your wallet. The reward you receive can be explained with the following example:
 
-A.) Yes - there’s a user guide you can find here:
+* Let's say that Maya has 1 staked MATIC and 1 aMATICb in her wallet.&#x20;
+* She receives 0.1 staking rewards.&#x20;
+* Now the value of her staked MATIC is 1.1.
 
-https://docs.ankr.com/earn/liquid-staking/polygon
+Since, 1 aMATICb token always represents 1 staked MATIC token (which can be unstaked at some point) rebasing seeks to restore equivalency. In other words, the rebasing mechanism always attempts to keep 1 aMATICb token equivalent to 1 staked MATIC token.&#x20;
+
+* So in this example, the rebase adjustment will be 1/1.1=0.9090
+* Now Maya's aMATICb token holding is worth 1.1 and this increase is received directly to her wallet.&#x20;
+
+### Q. How do I set up my wallet for Polygon Liquid Staking?
+
+### A
+
+Check out these instructions to set up your Metamask wallet.\
+\
+[configure-metamask-to-polygon-network.md](configure-metamask-to-polygon-network.md "mention")
+
+\
+
 
 &#x20;

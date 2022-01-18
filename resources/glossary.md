@@ -225,9 +225,9 @@ Providers can bring CPU, GPU, memory and free storage to connect to the StakeFi 
 
 Providers DO NOT host staking nodes themselves. They use Ankr staking nodes via sidecars running on an Ethereum 2.0 node.
 
-### Rebase or Rebasing
+### Rebase (or Rebasing)
 
-A rebase refers to the process whereby a price-elastic token adjusts (increases or decreases) according to the circulating token supply. This adjustment occurs automatically according to a token’s price fluctuations. This adjustment is known as a rebase mechanism.
+A rebase refers to a mechanism used to adjust a price-elastic token to be equivalent in value to another asset it is based on. This adjustment occurs automatically if a market is perfect and all inequalities are arbitraged out. Otherwise, rebasing mechanisms are used to accommodate a token’s price fluctuations e.g in response to rewards for a staked asset. This adjustment is known as a rebase mechanism.
 
 ### **Scalability Trilemma**
 
