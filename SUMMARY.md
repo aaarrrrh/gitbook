@@ -42,6 +42,8 @@
     * [Integrate Code](ankr-protocol/public-rpcs/avalanche-rpc/integrate-code.md)
     * [Integrate CLI](ankr-protocol/public-rpcs/avalanche-rpc/integrate-cli.md)
     * [Integrate Wallet](ankr-protocol/public-rpcs/avalanche-rpc/integrate-wallet.md)
+  * [Binance Smart Chain RPC](ankr-protocol/public-rpcs/binance-smart-chain-rpc/README.md)
+    * [Integrate Wallet](ankr-protocol/public-rpcs/binance-smart-chain-rpc/integrate-wallet.md)
   * [Celo RPC](ankr-protocol/public-rpcs/celo-rpc/README.md)
     * [Integrate Code](ankr-protocol/public-rpcs/celo-rpc/integrate-code.md)
     * [Integrate CLI](ankr-protocol/public-rpcs/celo-rpc/integrate-cli.md)
