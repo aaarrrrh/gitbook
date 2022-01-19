@@ -2,7 +2,7 @@
 description: Below are examples of requests that can made via the Command Line Interface
 ---
 
-# Integrate CLI
+# Integrate Code
 
 ## Arbitrum
 
