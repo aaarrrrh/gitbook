@@ -26,9 +26,9 @@ none
 
 #### HEADERS
 
-**Content-Type**  application/json
+**Content-Type** application/json
 
-### **BODY **
+**BODY**
 
 raw
 
@@ -78,7 +78,7 @@ none
 
 **Content-Type** application/json
 
-#### BODY&#x20;
+#### BODY
 
 #### raw
 
@@ -96,4 +96,3 @@ curl https://rpc.ankr.com/polygon \
 ```javascript
 {"jsonrpc":"2.0","id":67,"result":"0xc8"}
 ```
-

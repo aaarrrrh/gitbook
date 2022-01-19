@@ -26,9 +26,9 @@ none
 
 #### HEADERS
 
-**Content-Type**  application/json
+**Content-Type** application/json
 
-**BODY **raw
+**BODY** raw
 
 ```json
 {
@@ -54,6 +54,6 @@ $ curl --location --request POST https://rpc.ankr.com/fantom \
 
 ### Example Response
 
-```
+```javascript
 {"jsonrpc":"2.0","id":1,"result":"v0.7.2-rc.1"}
 ```

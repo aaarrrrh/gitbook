@@ -54,17 +54,5 @@ func main() {
 }
 ```
 {% endtab %}
-
-{% tab title="Node.js" %}
-```
-// COMING SOON!
-```
-{% endtab %}
-
-{% tab title="Python" %}
-```
-// COMING SOON!
-```
-{% endtab %}
 {% endtabs %}
 

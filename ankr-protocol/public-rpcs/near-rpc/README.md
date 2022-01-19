@@ -4,6 +4,12 @@ NEAR is a development platform build on a [sharded](https://near.org/downloads/N
 
 NEAR is a decentralized development platform where developers can host serverless applications and smart contracts that easily connect to "open finance" networks and benefit from an ecosystem of "open web"  components.
 
+{% hint style="danger" %}
+**NOTE:**
+
+**Near is not compatible with the Ethereum Virtual Machine.  All contract code is deployed and run inside a WASM Compatible Virtual Machine.**&#x20;
+{% endhint %}
+
 ## Quick Links
 
 [**Near Protocol**](https://near.org)\
