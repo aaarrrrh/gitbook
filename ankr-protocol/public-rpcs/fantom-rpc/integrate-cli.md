@@ -41,15 +41,13 @@ none
 
 ### Example Request
 
+### Example Request
+
 ```
-$ curl --location --request POST https://rpc.ankr.com/fantom \
-> --header 'Content-Type: application/json' \
-> --data-raw '{
-> "jsonrpc":"2.0",
-> "method":"web3_clientVersion",
-> "params":[],
-> "id":1
-> }'
+curl https://rpc.ankr.com/fantom \
+  -X POST \
+  -H "Content-Type: application/json" \
+  --data '{"jsonrpc":"2.0","method":"web3_clientVersion","params":[],"id":1}'
 ```
 
 ### Example Response

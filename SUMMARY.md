@@ -55,6 +55,7 @@
     * [Connect Wallet](ankr-protocol/public-rpcs/fantom-rpc/integrate-wallet.md)
   * [IoTeX RPC](ankr-protocol/public-rpcs/iotex-rpc/README.md)
     * [Connect Wallet](ankr-protocol/public-rpcs/iotex-rpc/connect-wallet.md)
+    * [Integrate Code](ankr-protocol/public-rpcs/iotex-rpc/integrate-code.md)
   * [Near RPC](ankr-protocol/public-rpcs/near-rpc.md)
     * [Connect Wallet](ankr-protocol/public-rpcs/near-rpc/connect-wallet.md)
   * [Polygon RPC](ankr-protocol/public-rpcs/polygon-rpc/README.md)
