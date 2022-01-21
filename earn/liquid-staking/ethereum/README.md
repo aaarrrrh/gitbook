@@ -12,7 +12,7 @@ it is not possible to unstake ETH until the Ethereum Network reaches phase 1.5 o
 
 ### Two types of ETH2 Liquid Staking
 
-![Summary of Key Benefits](../../../../.gitbook/assets/ETH-bond-decision.jpeg)
+![Summary of Key Benefits](../../../.gitbook/assets/ETH-bond-decision.jpeg)
 
 There are two types of ETH2 Liquid Staking tokens available. Each has its own merits.
 

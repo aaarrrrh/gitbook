@@ -10,8 +10,8 @@ Ankr StakeFi offers instant liquidity for your staked DOT, enabling you to conne
 2. :tada:Instant Liquidity!!! We return an equivalent amount of **aKSMb** tokens to you. These are reward earning tokens that distribute staking rewards to your wallet **on a daily basis**. You can watch the aKSMb balance in your wallet automatically increase everyday.
 3.  :leaves:You can use your aDOTb to generate further yield by liquidity mining, lending, and/or other strategies on DeFi platforms such as:
 
-    [**OnX**](https://onx.finance),&#x20;
+    [**OnX**](https://onx.finance),
 
-    [**Uniswap**](https://uniswap.org),&#x20;
+    [**Uniswap**](https://uniswap.org),
 
     [**Compound**](https://compound.finance).

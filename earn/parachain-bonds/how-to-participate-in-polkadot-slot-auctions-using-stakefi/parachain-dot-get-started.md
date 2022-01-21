@@ -12,7 +12,7 @@ This walkthrough assumes you have:\
 \-A MetaMask wallet
 
 \
-If not, check out [Before you Start](../../staking/liquid-staking/polkadot/get-started.md) for guidance.
+If not, check out [Before you Start](../../liquid-staking/polkadot/get-started.md) for guidance.
 {% endhint %}
 
 ### 01 Open the Parachain Liquid Bonding App

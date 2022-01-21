@@ -6,11 +6,11 @@ description: >-
 
 # Configure Metamask to Polygon Network
 
-1. Log in to MetaMask&#x20;
-2. Click the **Network** drop-down and select** Custom RPC**
+1. Log in to MetaMask
+2. Click the **Network** drop-down and select\*\* Custom RPC\*\*
 3. Enter the following details:
 
-* **Network Name**: Polygon&#x20;
+* **Network Name**: Polygon
 * **New RPC URL**: [https://rpc.ankr.com/polygon](https://rpc.ankr.com/polygon)
 * **ChainID**: 137
 * **Symbol**: MATIC

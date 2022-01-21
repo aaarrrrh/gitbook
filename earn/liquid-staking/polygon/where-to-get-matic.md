@@ -2,7 +2,7 @@
 
 There are several ways how to buy MATIC tokens:
 
-**A. Centralized Exchanges **
+\*\*A. Centralized Exchanges \*\*
 
 [Coinbase](https://www.coinbase.com)
 

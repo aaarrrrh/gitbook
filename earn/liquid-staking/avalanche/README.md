@@ -1,6 +1,6 @@
 # Avalanche Liquid Staking
 
-Ankr StakeFi offers Avalanche token holders the opportunity to stake AVAX and in return claim Ankr Avalanche Liquid Staking tokens (aAVAXb).&#x20;
+Ankr StakeFi offers Avalanche token holders the opportunity to stake AVAX and in return claim Ankr Avalanche Liquid Staking tokens (aAVAXb).
 
 aAVAXb, similarly to aETHb, is a reward-earning token, meaning that rewards from Avalanche staking will be distributed daily through rebasing. In other words, the balance of aAVAXb tokens will increase daily in every holder’s wallet.
 
@@ -10,7 +10,7 @@ Contrary to ETH staking, it is also possible to unstake AVAX tokens. Therefore, 
 
 aAVAXb is tradable on the following Decentralized Exchanges on Avalanche network:
 
-* ****[**Pangolin**](https://pangolin.exchange)
+* \*\*\*\*[**Pangolin**](https://pangolin.exchange)
 * [**Lydia Finance**](https://www.lydia.finance)
 
 ### 2. Unstaking
@@ -20,4 +20,3 @@ Users will be able to **unstake**/redeem aAVAXb and wait for up to 28 days to re
 ### 3. Access to **instant liquidity pools** (in development)
 
 ANKR token holders can soon gain access to instant liquidity pools allowing them to sell 1 aAVAXb against 1 AVAX instantly and subject to the instant liquidity pool capacity. 3% of the allocated AVAX tokens to StakeFi will not be staked and will stay unstaked in the instant liquidity pool. As such, aAVAXb holders will indirectly bear the cost of the instant liquidity pool, which will represent 3% of the staking rewards due to the missed opportunity to stake AVAX. Therefore, the total cost for aAVAXb holders will be 2% service fee, plus 3% missed opportunity to stake AVAX, which equals 4.94% (no service fee applied to 3% instant liquidity pool). This functionality will be enabled soon.
-

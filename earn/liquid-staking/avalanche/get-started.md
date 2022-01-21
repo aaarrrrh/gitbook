@@ -13,7 +13,7 @@ There are several ways how to buy AVAX tokens:
 2. Go to [https://wallet.avax.network/](https://wallet.avax.network)
 3. From the left menu, select "**Cross-Chain**"
 
-![](<../../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4).png>)
 
 4\. Choose the '**C Chain (Contract)** as the destination chain![](https://ava-labs-f71bff3a8b6e.intercom-attachments-1.com/i/o/301251937/124f30416129699d0dc537ef/005.png?expires=1620391119\&signature=82b260842695fac6249374eb9996be18a5d2040410020ba7431014954228752b)
 

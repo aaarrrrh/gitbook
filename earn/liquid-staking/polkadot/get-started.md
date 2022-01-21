@@ -16,7 +16,7 @@
 1. Go to the [**Chrome Store and access the Polkadot Wallet**](https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd)\*\* \*\*
 2. Click '_**Add to Chrome**_'.
 
-![](<../../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7).png>)
 
 \
 3\. Ensure you follow master seed best practices and back up your master seed **SECURELY** offline.
@@ -36,6 +36,6 @@
 1. Connect your wallet to the [**Polkadot Account App**](https://polkadot.js.org/apps/#/accounts)\*\* \*\*to view your balance or make a transfer to another account.
 2. Open the top left menu to select the '**Polkadot'** network and click '_**Switch**_' to change to it (if required).
 
-![](<../../../../.gitbook/assets/Screenshot 2021-11-02 at 13.30.23.png>)
+![](<../../../.gitbook/assets/Screenshot 2021-11-02 at 13.30.23.png>)
 
 3\. You can then view your balance and/or make a transfer if required.

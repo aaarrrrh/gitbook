@@ -9,7 +9,7 @@
 3\. You are prompted to connect your **Binance Chain Extension Wallet**.\
 Select ‘_**Grant Access**_’ to to connect your wallet.
 
-![](<../../../../.gitbook/assets/Screenshot 2021-11-12 at 17.00.07.png>)
+![](<../../../.gitbook/assets/Screenshot 2021-11-12 at 17.00.07.png>)
 
 4\. Click '_**Connect**_' inside your **Binance Chain Wallet** to proceed.
 

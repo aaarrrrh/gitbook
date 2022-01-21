@@ -12,11 +12,11 @@ description: >-
 \
 2\. Locate the ‘**Stake MATIC**’ box and click ‘_**Start staking**_’.\\
 
-![](<../../../../.gitbook/assets/Screenshot 2021-11-02 at 16.47.41 (2).png>)
+![](<../../../.gitbook/assets/Screenshot 2021-11-02 at 16.47.41 (2).png>)
 
 3\. You are prompted to grant **Ankr Stake Fi** access to your wallet. Click '_**Grant Access**_**'** to proceed.
 
-![](<../../../../.gitbook/assets/Screenshot 2021-11-02 at 16.50.15.png>)
+![](<../../../.gitbook/assets/Screenshot 2021-11-02 at 16.50.15.png>)
 
 4\. Select the wallet you wish to connect to and **authorize** the connection to proceed.
 
@@ -34,11 +34,11 @@ _\*\*\*\*_[_**Find out more**_](https://docs.avax.network/learn/platform-overvie
 
 1. From the **Staking Dashboard**, click the '**+**' button to stake MATIC.
 
-![](<../../../../.gitbook/assets/Screenshot 2021-11-03 at 14.15.04.png>)
+![](<../../../.gitbook/assets/Screenshot 2021-11-03 at 14.15.04.png>)
 
 2\. Enter the desired amount of **MATIC** to stake and click '_**Stake**_'
 
-![](<../../../../.gitbook/assets/Screenshot 2021-11-03 at 14.49.03.png>)
+![](<../../../.gitbook/assets/Screenshot 2021-11-03 at 14.49.03.png>)
 
 {% hint style="warning" %}
 **NOTE**
@@ -62,11 +62,11 @@ A small **transaction fee** is charged in ETH
 
 4\. When the transaction is finalized, the **Staking Dashboard** automatically updates with your **aMATICb liquidity token** balance.
 
-![](<../../../../.gitbook/assets/Screenshot 2021-11-03 at 14.46.53.png>)
+![](<../../../.gitbook/assets/Screenshot 2021-11-03 at 14.46.53.png>)
 
 5\. You are prompted to add your **aMATICb** token to your Metamask Wallet. Click '**Add Token'**.
 
-![](<../../../../.gitbook/assets/Screenshot 2021-11-03 at 14.50.53.png>)
+![](<../../../.gitbook/assets/Screenshot 2021-11-03 at 14.50.53.png>)
 
 {% hint style="success" %}
 **Success**

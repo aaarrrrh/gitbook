@@ -22,17 +22,17 @@ Ankr StakeFi covers the gas fee cost and charge a modest fee in Ankr to compensa
 
 2\. Locate the '**Stake MATIC**' box and click '**Start Staking**'
 
-![](../../../../.gitbook/assets/start-staking-matic.png)
+![](../../../.gitbook/assets/start-staking-matic.png)
 
 3\. Click '**Grant Access**' to connect to your wallet.
 
 4\. Click the '**-' icon** to unstake.
 
-![](<../../../../.gitbook/assets/Screenshot 2021-11-03 at 15.15.51.png>)
+![](<../../../.gitbook/assets/Screenshot 2021-11-03 at 15.15.51.png>)
 
 5\. Select the amount to unstake or select 'MAX' and click '_**Unstake**_'
 
-![](<../../../../.gitbook/assets/Screenshot 2021-11-03 at 15.15.33.png>)
+![](<../../../.gitbook/assets/Screenshot 2021-11-03 at 15.15.33.png>)
 
 {% hint style="warning" %}
 **FEES:**
@@ -48,7 +48,7 @@ There is a **10 ANKR** fee to unstake plus a small (variable) ETH transaction fe
 Once transaction is confirmed, the **Staking Dashboard updates to show '\_Unbonding in progress'**\_
 {% endhint %}
 
-![](<../../../../.gitbook/assets/Screenshot 2021-11-03 at 15.28.20.png>)
+![](<../../../.gitbook/assets/Screenshot 2021-11-03 at 15.28.20.png>)
 
 {% hint style="warning" %}
 **NOTE**
