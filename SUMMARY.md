@@ -104,7 +104,7 @@
   * [Fantom Liquid Staking](earn/liquid-staking/fantom-liquid-staking.md)
   * [Liquidity Mining with Liquid Staking Tokens](earn/liquid-staking/provide-liquidity-to-dexs.md)
   * [Yield Farming Opportunities with Liquid Staking & Ankr](earn/liquid-staking/yield-farming-opportunities-with-ankr-token-and-internet-bonds.md)
-  * [Liquid Staking Token Addresses](earn/liquid-staking/token-addresses.md)
+  * [Token Addresses](earn/liquid-staking/token-addresses.md)
   * [Ankr Earn Brand Assets](earn/liquid-staking/ankr-earn-brand-assets.md)
 * [Pooled Staking](earn/micropools/README.md)
   * [BNB Staking](earn/micropools/bnb-staking/README.md)
