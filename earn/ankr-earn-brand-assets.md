@@ -1,4 +1,4 @@
-# Ankr Earn Brand Assets
+# Brand Assets
 
 **Ankr Earn Brand Assets - Liquid Staking Tokens Logos**
 

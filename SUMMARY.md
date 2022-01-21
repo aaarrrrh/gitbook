@@ -121,7 +121,7 @@
 * [Ankr Boost](earn/stakefi-alpha/README.md)
   * [Trading Cockpit](earn/stakefi-alpha/trading-cockpit.md)
   * [Liquidity Mining with Liquid Staking Tokens](earn/stakefi-alpha/provide-liquidity-to-dexs.md)
-  * [Yield Farming Opportunities with Liquid Staking & Ankr](earn/stakefi-alpha/yield-farming-opportunities-with-ankr-token-and-internet-bonds.md)
+  * [Yield](earn/stakefi-alpha/yield-farming-opportunities-with-ankr-token-and-internet-bonds.md)
 * [Token Addresses](earn/token-addresses.md)
 * [Brand Assets](earn/ankr-earn-brand-assets.md)
 
