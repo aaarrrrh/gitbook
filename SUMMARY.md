@@ -121,7 +121,7 @@
   * [Parachain Liquid Crowdloan Market Makers](earn/parachain-bonds/parachain-bond-market-makers-and-fair-value.md)
   * [Parachain SDK](earn/parachain-bonds/parachain-sdk.md)
 * [Ankr Boost](earn/stakefi-alpha/README.md)
-  * [Trading Cockpit](earn/stakefi-alpha/trading-cockpit.md)
+  * [Trade](earn/stakefi-alpha/trade.md)
   * [Liquidity Mining with Liquid Staking Tokens](earn/liquid-staking/provide-liquidity-to-dexs.md)
   * [Yield](earn/liquid-staking/yield-farming-opportunities-with-ankr-token-and-internet-bonds.md)
 * [Token Addresses](earn/liquid-staking/token-addresses.md)
