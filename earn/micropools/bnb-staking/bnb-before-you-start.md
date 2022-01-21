@@ -1,11 +1,11 @@
 # BNB - Before you Start
 
-### **01 Install Binance Chain Wallet extension** <a href="#prerequisites" id="prerequisites"></a>
+### **01 Install Binance Chain Wallet extension** <a href="prerequisites" id="prerequisites"></a>
 
-You will need a **Binance Chain Wallet** browser extension. Check out the Binance docs for [download links to add the wallet extension](https://docs.binance.org/smart-chain/wallet/binance.html).
+You will need a **Binance Chain Wallet** browser extension. Check out the Binance docs for [download links to add the wallet extension](https://docs.binance.org/smart-chain/wallet/binance.html).&#x20;
 
-### 02 Ensure you have **sufficient BNB to stake plus a small amount for fees**.
+### 02 Ensure you have **sufficient BNB to stake plus a small amount for fees**.&#x20;
 
-You can purchase or swap crypto for BNB at [https://www.binance.com/](https://www.binance.com) and other exchanges.
+You can purchase or swap crypto for BNB at [https://www.binance.com/](https://www.binance.com) and other exchanges.&#x20;
 
 ### 03 Send the **desired amount of BNB (BEP 2)** to your Binance Chain Wallet address.

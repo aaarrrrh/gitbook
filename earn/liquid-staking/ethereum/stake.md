@@ -1,8 +1,8 @@
 # How to stake ETH
 
-## **01 Connect your Wallet**
+## **01 Connect your Wallet**&#x20;
 
-1\. Visit the [StakeFi ](https://stakefi.ankr.com)app and click the '_**StakeFi Launchpad**_**'** button.\
+1\. Visit the [StakeFi ](https://stakefi.ankr.com)app and click the '_**StakeFi Launchpad**_**'** button. \
 \
 2\. Locate the ‘**Stake ETH**’ box and click ‘_**Start staking**_’.\
 \
@@ -13,7 +13,7 @@
 ![](<../../../.gitbook/assets/Screenshot 2021-09-22 at 11.09.16.png>)
 
 {% hint style="warning" %}
-**BE SURE to select the ‘**_**Ethereum Mainnet**_\*\*’ network in your wallet. Otherwise you get an error message as below \*\*
+**BE SURE to select the ‘**_**Ethereum Mainnet**_**’ network in your wallet. Otherwise you get an error message as below **
 {% endhint %}
 
 ![](<../../../.gitbook/assets/image (5).png>)
@@ -23,7 +23,7 @@
 ![](<../../../.gitbook/assets/Screenshot 2021-09-20 at 15.22.17.png>)
 
 \
-5\. Successful connection to **StakeFi** is indicated in the top right corner.
+&#x20;5\. Successful connection to **StakeFi** is indicated in the top right corner.
 
 ![](<../../../.gitbook/assets/Screenshot 2021-09-22 at 11.22.38.png>)
 
@@ -33,7 +33,7 @@
 
 ![](<../../../.gitbook/assets/click + button.png>)
 
-2\. Enter the desired staking amount or use the slider.
+2\. Enter the desired staking amount or use the slider.&#x20;
 
 {% hint style="info" %}
 **BE SURE: to allow sufficient ETH to cover gas fees.**
@@ -43,43 +43,44 @@
 
 3\. Click '_**Stake**_'
 
-4\. Your Wallet pops up with details of the transaction. Click '_**Confirm**_' to proceed.
+4\. Your Wallet pops up with details of the transaction. Click '_**Confirm**_' to proceed.&#x20;
 
 ![](../../../.gitbook/assets/eth-staking-metamask.png)
 
 5\. The status of the transaction updates in your wallet.
 
 {% hint style="info" %}
-\*\*INFO: \*\*
+**INFO: **
 
-Ankr sends the collectively pooled\*\* \*\*32 ETH once it is accumulated to the nodes. Until that happens, you have the option to **unstake** if desired.
+Ankr sends the collectively pooled** **32 ETH once it is accumulated to the nodes. Until that happens, you have the option to **unstake** if desired.
 {% endhint %}
 
-6\. When staking is finalized, the **Staker Dashboard** updates to show the Status as '_**Confirmed**_'.
+6\. When staking is finalized, the **Staker Dashboard** updates to show the Status as '_**Confirmed**_'.&#x20;
 
 ![](<../../../.gitbook/assets/eth-staked-confirmed (1).png>)
 
 ## 03 Receive Liquid Staking tokens
 
-1. To claim your Internet Bonds, click '_**Claim**_'
+1. To claim your Internet Bonds, click '_**Claim**_'&#x20;
 
 ![](../../../.gitbook/assets/eth-staked-claim.png)
 
-2\. Select your preferred Internet Bond token and click to claim.
+2\. Select your preferred Internet Bond token and click to claim.&#x20;
 
 {% hint style="warning" %}
-\*\*NOTE: \*\*
+**NOTE: **
 
-\*\*If you are unable to claim your tokens, refresh and reload the page. \*\*\\
+**If you are unable to claim your tokens, refresh and reload the page. **\
+
 {% endhint %}
 
 ![](<../../../.gitbook/assets/Screenshot 2021-09-28 at 12.20.48.png>)
 
-3\. Your wallet pops up for confirmation.Click '_**Confirm**_' to claim your tokens.
+3\. Your wallet pops up for confirmation.Click '_**Confirm**_' to claim your tokens.&#x20;
 
 ![](../../../.gitbook/assets/eth-staking-wallet-confirmation.png)
 
-4\. Refresh your screen to view your **aETHb** or **aETHc** token status.\
+4\. Refresh your screen to view your **aETHb** or **aETHc** token status. \
 In the example below, _**0.5 aETHb**_ has been claimed.
 
 ![](<../../../.gitbook/assets/Screenshot 2021-09-28 at 13.36.42.png>)
@@ -93,3 +94,4 @@ In the example below, _**0.5 aETHb**_ has been claimed.
 {% content-ref url="../yield-farming-opportunities-with-ankr-token-and-internet-bonds.md" %}
 [yield-farming-opportunities-with-ankr-token-and-internet-bonds.md](../yield-farming-opportunities-with-ankr-token-and-internet-bonds.md)
 {% endcontent-ref %}
+

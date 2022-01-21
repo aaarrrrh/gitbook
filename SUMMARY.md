@@ -101,6 +101,7 @@
   * [Kusama Liquid Staking](earn/liquid-staking/kusama/README.md)
     * [KSM - Before you start](earn/liquid-staking/kusama/get-started.md)
     * [How to stake KSM](earn/liquid-staking/kusama/how-to-stake-ksm.md)
+  * [BNB Liquid Staking](earn/liquid-staking/bnb-liquid-staking.md)
   * [Fantom Liquid Staking](earn/liquid-staking/fantom-liquid-staking.md)
 * [Smart Staking](earn/micropools/README.md)
 * [Delegate Staking](earn/micropools/delegate-staking.md)
