@@ -81,6 +81,7 @@
 ## Earn
 
 * [About Ankr Earn](earn/about.md)
+* [Staking](earn/staking.md)
 * [Liquid Staking](earn/liquid-staking/README.md)
   * [Ethereum Liquid Staking](earn/liquid-staking/ethereum/README.md)
     * [How to stake ETH](earn/liquid-staking/ethereum/stake.md)
