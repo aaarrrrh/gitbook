@@ -30,7 +30,7 @@ The Redemption Value of aETHc is always higher than 1. This is because staking r
 
 The aETHc ratio is also applied when staking ETH to avoid existing stakers being diluted by new stakers. In other words, if the redemption value of 1 aETHc is 1.05 ETH, a new user willing to stake ETH will get 1/1.05 = 0.9524 aETHc for staking 1 ETH.
 
-### Should I Stake or Should I Trade?
+### Should I Stake or Trade?
 
 Ankr Boost Trade will compare prices on the market with Ankr's redemption (fair) value to indicate whether it is more attractive to stake, or trade. This tool was made to help stakers make better-informed decisions.&#x20;
 
