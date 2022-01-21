@@ -22,12 +22,16 @@ We can then click to visit the Exchange and complete our trade.&#x20;
 
 In the example we can see that we would receive an equivalent amount of aETHb. This is because the fair value of ETH to aETHb is set as a 1:1 relationship.
 
-### What is Fair Value?&#x20;
+### What is Redemption Value?&#x20;
 
-The Fair Value represents the ratio at which users can stake/unstake 1 token. For reward earning tokens i.e. aETHb the ratio is always 1. This is because any difference is passed to your wallet as a type of staking reward resulting from rebasing.&#x20;
+The Redemption Value or Fair Value represents the ratio at which users can stake/unstake 1 token. For reward earning tokens i.e. aETHb the ratio is always 1. This is because any difference is passed to your wallet as a type of staking reward resulting from rebasing.&#x20;
 
-The Fair Value of aETHc is always higher than 1. This is because staking rewards accumulate and can be realized when users unstake. a
+The Redemption Value of aETHc is always higher than 1. This is because staking rewards accumulate and can be realized when users unstake. The Ratio or Redemption Value of aETHc is therefore continuously increasing together with ETH staking rewards.
 
-Fair Value is distinct from market value.&#x20;
+The aETHc ratio is also applied when staking ETH to avoid existing stakers being diluted by new stakers. In other words, if the redemption value of 1 aETHc is 1.05 ETH, a new user willing to stake ETH will get 1/1.05 = 0.9524 aETHc for staking 1 ETH.
+
+### Should I Stake or Should I Trade?
+
+Ankr Boost Trade will compare prices on the market with Ankr's redemption (fair) value to indicate whether it is more attractive to stake, or trade. This tool was made to help stakers make better-informed decisions.&#x20;
 
 ![Trading Cockpit](../../.gitbook/assets/trading-cockpit.png)
