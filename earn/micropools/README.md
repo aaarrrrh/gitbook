@@ -1,25 +1,22 @@
-# Smart Staking
+# Pooled Staking
 
-### What is Smart Staking?
+### What are they?
 
-Smart Staking is an innovative way to provide a one-click staking experience using liquid staking as collateral to fully represent the staked assets.&#x20;
+Staking Pools represent several token holders consolidating their resources to enjoy several benefits over solo staking.
 
 **Key Benefits**
 
-* One-click staking experience
+* Simplified staking experience without needing KYC from a centralized exchange providing staking services
 * Non-custodial staking experience
 * Lower staking requirement than staking nodes (e.g. min. 0.5 ETH instead of 32 ETH for one staking node)
-* Powered by the most scalable staking infrastructure - liquid staking
+* Easier user experience than running a validator node
 
 **How does it work?**
 
-Deposit ETH or any native token from any Proof-of-Stake blockchain that Ankr supports through liquid staking into a smart contract from Ankr, or your own smart contract if you are a company willing to enable smart staking to your own customers.
+To receive staking rewards from Proof-of-Stake protocols, it is required to validate transactions of the network and stake tokens to ensure that the validator is economically incentivized to validate transactions appropriately to avoid penalties, often referred to as slashing.&#x20;
 
-The smart contract should then get liquid staking tokens (from Ankr, or the market, whatever is cheaper) when it receives a deposit.
+Validating transactions require technically advanced users to run validator nodes. To enable capital providers to stake without technical requirements, and validators to run nodes without contributing with a significant amount of own staked tokens, staking pools enable both validators and providers to benefit consolidate their resources towards the same goal: receive staking rewards.
 
-Depositors can withdraw using two options:
+Ankr helps capital providers to receive staking rewards and powers staking pools through its own staking nodes powered by a distributed network of data centers, or a **Staking Manager** connecting stakers and node providers, and automatically allocating your funds to the node providers hosting staking pools.&#x20;
 
-1. claim liquid staking token from the smart contract
-2. unstake (=smart contract redeems liquid staking token to Ankr) and receive funds at the end of the unbonding period (e.g. every 28 days for aAVAXb, 3-4 days for aMATICb, 7 days for aBNBb)
-
-***
+****

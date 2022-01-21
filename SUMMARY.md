@@ -107,6 +107,7 @@
   * [Token Addresses](earn/liquid-staking/token-addresses.md)
   * [Brand Assets](earn/liquid-staking/ankr-earn-brand-assets.md)
 * [Smart Staking](earn/micropools/README.md)
+  * [Delegate Staking](earn/micropools/delegate-staking.md)
   * [BNB Staking](earn/micropools/bnb-staking/README.md)
     * [BNB - Before you Start](earn/micropools/bnb-staking/bnb-before-you-start.md)
     * [BNB - Staking](earn/micropools/bnb-staking/bnb-staking.md)
