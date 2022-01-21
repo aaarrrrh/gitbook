@@ -5,14 +5,14 @@
 {% hint style="warning" %}
 **Checklist**
 
-This walkthrough assumes you have: \
-\- A_**`polkadot.js`wallet**_ installed in your Chrome Browser\
-\- **DOT** tokens you want to deposit AND gas fees.&#x20;
+This walkthrough assumes you have:\
+\- A\_**`polkadot.js`wallet**\_ installed in your Chrome Browser\
+\- **DOT** tokens you want to deposit AND gas fees.
 
 \-A MetaMask wallet
 
 \
-If not, check out [Before you Start](../../liquid-staking/polkadot/get-started.md) for guidance.&#x20;
+If not, check out [Before you Start](../../staking/liquid-staking/polkadot/get-started.md) for guidance.
 {% endhint %}
 
 ### 01 Open the Parachain Liquid Bonding App
@@ -21,7 +21,7 @@ If not, check out [Before you Start](../../liquid-staking/polkadot/get-started.m
 
 ![](<../../../.gitbook/assets/Screenshot 2021-11-08 at 14.41.19.png>)
 
-02 Select the '**Polkadot**'  network to view ongoing slot auctions.
+02 Select the '**Polkadot**' network to view ongoing slot auctions.
 
 ![](<../../../.gitbook/assets/Screenshot 2021-11-08 at 14.43.19.png>)
 
@@ -38,7 +38,7 @@ If not, check out [Before you Start](../../liquid-staking/polkadot/get-started.m
 {% hint style="success" %}
 **Successful Connection**
 
-A successful connection is indicated by the upper right hand corner displaying your_ Polkadot Wallet _address.&#x20;
+A successful connection is indicated by the upper right hand corner displaying your\_ Polkadot Wallet \_address.
 {% endhint %}
 
 ![](<../../../.gitbook/assets/Screenshot 2021-11-08 at 14.55.06.png>)
@@ -49,25 +49,25 @@ A successful connection is indicated by the upper right hand corner displaying y
 
 ### 03 Contribute to the desired Project
 
-1\. Select the **Project** you want to support and click _'**Contribute DOT**'. _\
-_- _Enter the amount of DOT to contribute\
-\- Check the box to confirm you understand.\
-\- Click '_**Contribute**_'
+1\. Select the **Project** you want to support and click \_'**Contribute DOT**'. \_\
+_- Enter the amount of DOT to contribute_\
+_- Check the box to confirm you understand._\
+_- Click '**Contribute**_'
 
 ![](<../../../.gitbook/assets/Screenshot 2021-11-08 at 14.59.55.png>)
 
-4\. Your **Polkadot wallet** pops up for you to sign the transaction.&#x20;
+4\. Your **Polkadot wallet** pops up for you to sign the transaction.
 
-* Enter your password to sign the transaction.&#x20;
+* Enter your password to sign the transaction.
 
 ![](<../../../.gitbook/assets/Screenshot 2021-11-08 at 15.02.08.png>)
 
-* The Parachain Dashboard updates with the amount deposited.&#x20;
+* The Parachain Dashboard updates with the amount deposited.
 
 ![](<../../../.gitbook/assets/Screenshot 2021-11-08 at 15.05.48.png>)
 
 {% hint style="success" %}
 **Success**!
 
-Success is indicated on the dashboard. You can verify the transaction details on  [https://polkadot.subscan.io/](https://polkadot.subscan.io)
+Success is indicated on the dashboard. You can verify the transaction details on [https://polkadot.subscan.io/](https://polkadot.subscan.io)
 {% endhint %}

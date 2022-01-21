@@ -7,17 +7,15 @@ There are several ways how to buy AVAX tokens:
 1. Buy AVAX on a centralized exchange
 2. Withdraw AVAX to AVAX C-Chain
 
-
-
 **B. Centralized exchanges not supporting withdrawals to AVAX C-Chain**
 
-1. If the exchange you are using does not support AVAX C-Chain, you will have to withdraw to a AVAX X-Chain address using [AVAX Wallet](https://wallet.avax.network).&#x20;
+1. If the exchange you are using does not support AVAX C-Chain, you will have to withdraw to a AVAX X-Chain address using [AVAX Wallet](https://wallet.avax.network).
 2. Go to [https://wallet.avax.network/](https://wallet.avax.network)
 3. From the left menu, select "**Cross-Chain**"
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../../.gitbook/assets/image (4).png>)
 
-&#x20;4\. Choose the '**C Chain (Contract)** as the destination chain![](https://ava-labs-f71bff3a8b6e.intercom-attachments-1.com/i/o/301251937/124f30416129699d0dc537ef/005.png?expires=1620391119\&signature=82b260842695fac6249374eb9996be18a5d2040410020ba7431014954228752b)
+4\. Choose the '**C Chain (Contract)** as the destination chain![](https://ava-labs-f71bff3a8b6e.intercom-attachments-1.com/i/o/301251937/124f30416129699d0dc537ef/005.png?expires=1620391119\&signature=82b260842695fac6249374eb9996be18a5d2040410020ba7431014954228752b)
 
 5\. Enter the amount you would like to transfer, and then click '**Confirm'**
 
@@ -37,10 +35,8 @@ Now you can send the AVAX from your Avalanche wallet to your MetaMask wallet.
 
 9\. Confirm, and finalize the transaction.
 
+**C. Use** [**Avalanche Bridge**](https://bridge.avax.network/login) **and get free AVAX to trade on decentralized exchange on the Avalanche network**
 
-
-**C. Use **[**Avalanche Bridge**](https://bridge.avax.network/login)** and get free AVAX to trade on decentralized exchange on the Avalanche network**
-
-1. Transfer tokens through [Avalanche Bridge](https://bridge.avax.network/login) using your Metamask browser extension (Ethereum network).&#x20;
-2. Once you transferred tokens to Avalanche network using Avalanche Bridge, make sure that your Metamask browser extension is connected using Avalanche network.&#x20;
+1. Transfer tokens through [Avalanche Bridge](https://bridge.avax.network/login) using your Metamask browser extension (Ethereum network).
+2. Once you transferred tokens to Avalanche network using Avalanche Bridge, make sure that your Metamask browser extension is connected using Avalanche network.
 3. Sell the token that you bridged from Ethereum to Avalanche network in a decentralized exchange on Avalanche network (e.g. [Pangolin](https://pangolin.exchange), [Lydia Finance](https://www.lydia.finance), [TraderJoe](https://www.traderjoexyz.com/#/home))
