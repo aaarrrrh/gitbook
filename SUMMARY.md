@@ -120,10 +120,10 @@
   * [Parachain SDK](earn/parachain-bonds/parachain-sdk.md)
 * [Ankr Boost](earn/stakefi-alpha/README.md)
   * [Trading Cockpit](earn/stakefi-alpha/trading-cockpit.md)
-  * [Liquidity Mining with Liquid Staking Tokens](earn/stakefi-alpha/provide-liquidity-to-dexs.md)
-  * [Yield](earn/stakefi-alpha/yield-farming-opportunities-with-ankr-token-and-internet-bonds.md)
-* [Token Addresses](earn/token-addresses.md)
-* [Brand Assets](earn/ankr-earn-brand-assets.md)
+  * [Liquidity Mining with Liquid Staking Tokens](earn/liquid-staking/provide-liquidity-to-dexs.md)
+  * [Yield](earn/liquid-staking/yield-farming-opportunities-with-ankr-token-and-internet-bonds.md)
+* [Token Addresses](earn/liquid-staking/token-addresses.md)
+* [Brand Assets](earn/liquid-staking/ankr-earn-brand-assets.md)
 
 ## Enterprise - Web 3.0 Infrastructure <a href="#web-3.0-infrastructure" id="web-3.0-infrastructure"></a>
 

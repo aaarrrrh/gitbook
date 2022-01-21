@@ -86,10 +86,10 @@ In the example below, _**0.5 aETHb**_ has been claimed.
 
 5\. Check out how to provide liquidity on DEXs and/or Yield Farming Opportunities with your Internet Bonds.
 
-{% content-ref url="../../stakefi-alpha/provide-liquidity-to-dexs.md" %}
-[provide-liquidity-to-dexs.md](../../stakefi-alpha/provide-liquidity-to-dexs.md)
+{% content-ref url="../provide-liquidity-to-dexs.md" %}
+[provide-liquidity-to-dexs.md](../provide-liquidity-to-dexs.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../stakefi-alpha/yield-farming-opportunities-with-ankr-token-and-internet-bonds.md" %}
-[yield-farming-opportunities-with-ankr-token-and-internet-bonds.md](../../stakefi-alpha/yield-farming-opportunities-with-ankr-token-and-internet-bonds.md)
+{% content-ref url="../yield-farming-opportunities-with-ankr-token-and-internet-bonds.md" %}
+[yield-farming-opportunities-with-ankr-token-and-internet-bonds.md](../yield-farming-opportunities-with-ankr-token-and-internet-bonds.md)
 {% endcontent-ref %}
