@@ -106,7 +106,7 @@
   * [Yield Farming Opportunities with Liquid Staking & Ankr](earn/liquid-staking/yield-farming-opportunities-with-ankr-token-and-internet-bonds.md)
   * [Token Addresses](earn/liquid-staking/token-addresses.md)
   * [Brand Assets](earn/liquid-staking/ankr-earn-brand-assets.md)
-* [Pooled Staking](earn/micropools/README.md)
+* [Smart Staking](earn/micropools/README.md)
   * [BNB Staking](earn/micropools/bnb-staking/README.md)
     * [BNB - Before you Start](earn/micropools/bnb-staking/bnb-before-you-start.md)
     * [BNB - Staking](earn/micropools/bnb-staking/bnb-staking.md)
