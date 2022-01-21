@@ -1,6 +1,10 @@
-# Liquidity Mining with Liquid Staking Tokens
+---
+description: Coming soon
+---
 
-### How to provide liquidity to ANKR & **liquid staking tokens** on Decentralized Exchanges (DEXs)
+# Liquidity Mining
+
+Ankr Boost - Liquidity Mining is a data aggregator summarizing all liquidity mining opportunities to provide liquidity for liquid staking tokens from Ankr.
 
 Currently, you can trade and provide liquidity to the following DEXs:
 
