@@ -23,6 +23,11 @@ The **Developer/Product Owner** or blockchain consumer gets faster, stable acces
 
 The **Provider of Infrastructure or Node owner** receives ANKR tokens for their node and infrastructure being utilised by the Protocol plus benefits from being able to use the node infrastructure at times of peak traffic.
 
+{% hint style="danger" %}
+**NOTE**: **** \
+**Full details of our Node Provider program are still in development and coming soon.**&#x20;
+{% endhint %}
+
 The **Ankr Investor** enjoys a significant utility of the ANKR token being employed on the platform, due to the subscription model.
 
 **Ankr Protocol** optimises transactions for each chain by utilising the most appropriate nodes in order to reduce latency. Executing transactions via Ankr Protocol is faster and more efficient than using the blockchain directly, without the protocol.

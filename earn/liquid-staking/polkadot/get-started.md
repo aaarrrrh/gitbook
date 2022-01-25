@@ -6,14 +6,14 @@
 **Ensure the following:**
 
 1. You are using a Chrome Browser.
-2. You have a \*\*Polkadot wallet \*\*chrome extension installed.
+2. You have a **Polkadot walle**t chrome extension installed.
 3. You have the required amount of DOT you wish to contribute in your **Polkadot wallet** (chrome extension) plus an amount for gas fees.
 4. You have a **Metamask wallet**.
 {% endhint %}
 
 ### 01 Install Polkadot Wallet
 
-1. Go to the [**Chrome Store and access the Polkadot Wallet**](https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd)\*\* \*\*
+1. Go to the [**Chrome Store and access the Polkadot Wallet**](https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd)
 2. Click '_**Add to Chrome**_'.
 
 ![](<../../../.gitbook/assets/image (7).png>)
@@ -30,10 +30,10 @@
 {% hint style="info" %}
 **Wallets to use to transfer Polkadot**\
 \
-**You can use \_Polka Wallet, Trust Wallet, Fearless Wallet, Polkadot.js**\_ to send DOT to your extension wallet.
+You can use Polka Wallet, Trust Wallet, Fearless Wallet, Polkadot.js to send DOT to your extension wallet.
 {% endhint %}
 
-1. Connect your wallet to the [**Polkadot Account App**](https://polkadot.js.org/apps/#/accounts)\*\* \*\*to view your balance or make a transfer to another account.
+1. Connect your wallet to the [**Polkadot Account App**](https://polkadot.js.org/apps/#/accounts) **** to view your balance or make a transfer to another account.
 2. Open the top left menu to select the '**Polkadot'** network and click '_**Switch**_' to change to it (if required).
 
 ![](<../../../.gitbook/assets/Screenshot 2021-11-02 at 13.30.23.png>)

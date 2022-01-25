@@ -1,6 +1,6 @@
 # Polkadot Liquid Staking
 
-Polkadot Liquid Staking from [**Ankr StakeFi**](https://stakefi.ankr.com/internet-bonds) offers instant liquidity for your staked DOT.
+Polkadot Liquid Staking from [**Ankr Earn**](https://stakefi.ankr.com/internet-bonds) offers instant liquidity for your staked DOT.
 
 ## Overview of Polkadot Liquid Staking Steps
 
@@ -14,7 +14,7 @@ In return for staking DOT you receive **aDOTb** liquid staking tokens. **aDOTb**
 
 ### 03. Receive Staking Rewards
 
-Staking rewards are distributed to your wallet daily and your wallet's \*\*aDOTb \*\*balance will increase daily.
+Staking rewards are distributed to your wallet daily and your wallet's **aDOTb** balance will increase daily.
 
 ### 04. Use aDOTb on DeFi platforms
 
@@ -25,4 +25,3 @@ You will be expected to use your aDOTb tokens to participate in liquidity mining
 * [SushiSwap](https://sushi.com) (trading - liquid mining)
 * [OnX Finance](https://onx.finance) (lending / vaults - coming soon)
 
-\\

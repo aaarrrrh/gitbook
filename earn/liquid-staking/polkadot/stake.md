@@ -10,7 +10,7 @@ description: >-
 **Checklist**
 
 This walkthrough assumes you have:\
-\- A\_**`polkadot.js`wallet**\_ installed in your Chrome Browser\
+\- A**`polkadot.js`wallet** installed in your Chrome Browser\
 \- Sufficient **DOT** tokens for staking AND gas fees.
 
 \
@@ -19,7 +19,7 @@ If not, check out [Before you Start](get-started.md) for guidance.
 
 ## 01 Connect your Wallet
 
-1\. Visit the\*\* [**\*\*StakeFi \*\***](https://stakefi.ankr.com)**app and click the '\_**StakeFi Launchpad**\_**'\*\* button.
+1\. Visit the[ ](https://stakefi.ankr.com)[**Ankr Earn**](https://stakefi.ankr.com/liquid-staking) **** app and click the **'**_**Launchpad**_'  button.
 
 ![](<../../../.gitbook/assets/Screenshot 2021-09-28 at 15.46.50.png>)
 
@@ -37,4 +37,3 @@ Click to allow access.
 
 ![](<../../../.gitbook/assets/Screenshot 2021-09-28 at 15.57.36.png>)
 
-\\
