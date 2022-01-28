@@ -6,8 +6,8 @@ The ANKR token is the native utility and governance token for the ANKR network. 
 
 There is a limited supply of 10 billion tokens with approximately 27000 holders of ANKR tokens (as of July 2021).
 
-**Tokenomics**\
-There is no inflation built into the ANKR token. For example, a user who owns 1,000,000 ANKR, would own 0.0001% of te total supply. Because there is no inflation, that user’s percentage of the total supply would not change over time.
+**Tokenomics** \
+There is no inflation built into the ANKR token. For example, a user who owns 1,000,000 ANKR, would own 0.0001% of the total supply. Because there is no inflation, that user’s percentage of the total supply would not change over time.&#x20;
 
 **Circulating Supply**\
 Circulating supply refers to the amount of Ankr tokens available for use in the open market. Ankr plans to release the remaining supply for distribution programs, developer grants, and to provide liquidity to future exchange listings. One hundred percent of the token supply is scheduled to be unlocked by August, 2022, though Ankr reserves the right to change this at any time for any reason.
