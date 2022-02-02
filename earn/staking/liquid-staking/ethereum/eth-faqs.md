@@ -10,7 +10,9 @@
 
 ### A.
 
-it is not possible to unstake ETH until the Ethereum Network reaches phase 1.5 of its transition from Proof-of-Work to Proof-of-Stake. Phase 1.5 is expected in 2022, but the exact date is still unknown.
+It is not possible to unstake ETH until the Ethereum Network reaches phase 1.5 of its transition from Proof-of-Work to Proof-of-Stake. Phase 1.5 is expected in 2022, but the exact date is still unknown.&#x20;
+
+However, you can trade your aETHb and aETHc tokens on DEXs at any time to effectively exit your staking position and reclaim the original value of your staked assets plus rewards. Once you trade aETHb or aETHc tokens for ETH or other tokens, you will no longer be able to unstake them on Ankr Earn.
 
 ### Q. How soon after staking will I begin to receive rewards?
 
