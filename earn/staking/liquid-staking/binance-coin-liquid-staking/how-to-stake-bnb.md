@@ -1,5 +1,7 @@
 # How to stake BNB
 
+
+
 ## **1) Connect your Wallet**
 
 1\. Navigate to the [Ankr Earn](https://stakefi.ankr.com/liquid-staking/launchpad) platform.\

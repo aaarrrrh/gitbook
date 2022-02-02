@@ -66,5 +66,4 @@ The aFTMb tokens are ERC-20 tokens that can be safely stored on wallets like Met
 
 ### A.
 
-Check out these instructions to set up your MetaMask wallet.\
-\
+Check out these [instructions](https://docs.ankr.com/earn/staking/liquid-staking/fantom-liquid-staking/configuring-metamask-and-other-wallet-support) to set up your MetaMask wallet.
