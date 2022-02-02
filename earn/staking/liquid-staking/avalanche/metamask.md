@@ -10,16 +10,15 @@ description: >-
 
 ### MetaMask
 
-1. Log in to MetaMask \\
-2.  Click the **Network** drop-down and select\*\* Custom RPC\*\*\\
+1. Log in to MetaMask&#x20;
+2. Click the **Network** drop-down and select "Custom RPC"
+3. Enter the following details:
 
-    ***
-3. Enter the following details:\\
-   * **Network Name**: Avalanche Network
-   * **New RPC URL**: [https://api.avax.network/ext/bc/C/rpc](https://api.avax.network/ext/bc/C/rpc)
-   * **ChainID**: 43114
-   * **Symbol**: AVAX
-   * **Explorer**: [https://cchain.explorer.avax.network/](https://cchain.explorer.avax.network)
+* **Network Name**: Avalanche Network
+* **New RPC URL**: [https://rpc.ankr.com/avalanche](https://rpc.ankr.com/avalanche)
+* **ChainID**: 43114
+* **Symbol**: AVAX
+* **Explorer**: [https://ankrscan.io/](https://ankrscan.io)
 
 ## Other wallets that support Avalanche Network
 
