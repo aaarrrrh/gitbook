@@ -30,7 +30,7 @@ The fair amount of AVAX will be transferred to the user’s wallet at the end of
 
 ### A.
 
-aAVAXb will increase with every rebase, rebase occurs daily.
+Your aAVAXb token balance in your wallet will increase with every rebase, rebase occurs daily.
 
 ### Q. How do I receive rewards?
 
