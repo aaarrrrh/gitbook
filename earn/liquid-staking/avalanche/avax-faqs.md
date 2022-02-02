@@ -76,4 +76,4 @@ aAVAXb address on Ethereum: **0x30176cecb6dbf0869d59493142925a0287b12216**
 
 ### A.
 
-Providing liquidity to Pangolin on Avalanche network and SushiSwap on Ethereum network is being considered at the moment depending on the aAVAXb circulating supply on each network.
+You can find all DEXs and places you can use aAVAXb within the Ankr Boost tool on the Ankr Earn platform. This includes trading opportunities, liquidity mining opportunities, yield farming opportunities, and more.
