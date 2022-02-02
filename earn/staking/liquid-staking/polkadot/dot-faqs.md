@@ -10,7 +10,7 @@
 
 ### A.
 
-There is an unbonding period before you will be able to claim your DOT (currently a maximum of 28 days on Polkadot and 7 days on Kusama).
+There is an unbonding period before you will be able to claim your DOT (currently a maximum of 28 days on Polkadot).
 
 ### Q. How soon after staking will I begin to receive rewards?
 
