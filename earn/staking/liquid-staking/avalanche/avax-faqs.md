@@ -6,8 +6,8 @@ description: In this section we address some of the common questions users ask a
 
 ### Q. How do I configure my wallet for Avalanche?
 
-{% content-ref url="../metamask.md" %}
-[metamask.md](../metamask.md)
+{% content-ref url="metamask.md" %}
+[metamask.md](metamask.md)
 {% endcontent-ref %}
 
 ### A.
