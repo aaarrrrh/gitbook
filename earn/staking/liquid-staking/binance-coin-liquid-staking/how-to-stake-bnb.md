@@ -14,7 +14,7 @@
 
 ## 2) Stake your BNB
 
-1. From the **Staking Dashboard**, click the '**+**' button to stake FTM.
+1. From the **Staking Dashboard**, click the '**+**' button to stake BNB.
 
 &#x20; 2\. Enter the desired amount of **BNB** to stake and select '_**Stake**_'
 
