@@ -46,7 +46,9 @@ Yes - each time a rebase runs, we take a small percentage from this. The percent
 
 ### Q. How does a user find out current % earnings for AVAX?
 
-A. It will be published on Ankr StakeFi. As of July 1st 2021, the aAVAXb staking rewards APY were 7.82%, which is close to the 2-week Avalanche staking reward APR.
+### A.
+
+You will be able to see your estimated earnings within the Ankr Earn platform. You can find this amount displayed on the main staking card, and you can also access a rewards calculator to find a more exact number based on the amount you staked.
 
 ### Q. What determines the amount of reward I receive each rebase?
 
