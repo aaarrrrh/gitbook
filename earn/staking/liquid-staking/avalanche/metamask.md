@@ -19,16 +19,16 @@ description: >-
    * **Symbol**: AVAX
    * **Explorer**: [https://cchain.explorer.avax.network/](https://cchain.explorer.avax.network)
 
-## Supported browser extensions with Avalanche Network
+## Other wallets that support Avalanche Network
 
 {% hint style="warning" %}
-\*\*\*\*:white\_check\_mark: \*\*Metamask: \*\*Avalanche supported
+:white\_check\_mark: **MetaMask**
 
-\*\*\*\*:white\_check\_mark: **MathWallet**: Avalanche supported
+:white\_check\_mark: **MathWallet**
 
-\*\*\*\*:x: **TrustWallet**: looks like Avalanche is not supported
+:white\_check\_mark: **TrustWallet**
 
-\*\*\*\*:x: **ImToken**: Avalanche not supported
+:white\_check\_mark: **ImToken**
 
-\*\*\*\*:x: **Huobi wallet**: Avalanche is not supported
+:white\_check\_mark: **Huobi wallet**
 {% endhint %}
