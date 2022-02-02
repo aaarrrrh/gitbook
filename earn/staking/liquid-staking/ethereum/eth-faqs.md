@@ -16,7 +16,7 @@ it is not possible to unstake ETH until the Ethereum Network reaches phase 1.5 o
 
 ### A.
 
-aAVAXb will increase with every rebase, rebase occurs daily.
+aETHb balances will increase with every rebase, rebase occurs daily. The value of aETHc appreciates gradually to reflect your staking rewards.&#x20;
 
 ### Q. How do I receive rewards?
 
