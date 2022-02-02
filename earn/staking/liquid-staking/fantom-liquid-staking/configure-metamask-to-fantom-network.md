@@ -1,4 +1,4 @@
-# Configure MetaMask to Fantom Network
+# Configuring MetaMask & other wallet support
 
 
 

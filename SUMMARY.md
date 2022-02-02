@@ -109,7 +109,7 @@
     * [Fantom Liquid Staking](earn/liquid-staking/fantom-liquid-staking.md)
       * [How to stake FTM](earn/staking/liquid-staking/fantom-liquid-staking/how-to-stake-ftm.md)
       * [FTM FAQs](earn/staking/liquid-staking/fantom-liquid-staking/ftm-faqs.md)
-      * [Configuring MetaMask & other wallet support](earn/staking/liquid-staking/fantom-liquid-staking/configuring-metamask-and-other-wallet-support.md)
+      * [Configuring MetaMask & other wallet support](earn/staking/liquid-staking/fantom-liquid-staking/configure-metamask-to-fantom-network.md)
     * [Binance Coin Liquid Staking](earn/staking/liquid-staking/binance-coin-liquid-staking/README.md)
       * [How to stake BNB](earn/staking/liquid-staking/binance-coin-liquid-staking/how-to-stake-bnb.md)
       * [BNB FAQs](earn/staking/liquid-staking/binance-coin-liquid-staking/bnb-faqs.md)
