@@ -84,7 +84,7 @@
 * [Staking](earn/staking/README.md)
   * [Liquid Staking](earn/liquid-staking/README.md)
     * [Ethereum Liquid Staking](earn/liquid-staking/ethereum/README.md)
-      * [How to stake ETH](earn/staking/liquid-staking/ethereum/stake/README.md)
+      * [How to stake ETH](earn/liquid-staking/ethereum/stake.md)
         * [ETH2 Swap](earn/staking/liquid-staking/ethereum/stake/eth2-swap.md)
       * [ETH FAQs](earn/staking/liquid-staking/ethereum/eth-faqs.md)
     * [Avalanche Liquid Staking](earn/liquid-staking/avalanche/README.md)
