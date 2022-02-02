@@ -28,7 +28,7 @@ You will see the aDOTb balance in your wallet increase by a small amount every d
 
 ### A.
 
-Yes. For each rebase, Ankr takes a small 2% charge.
+Yes. For each rebase, Ankr takes a small charge (2%).
 
 ### Q. How does a user find out current % earnings for DOT?
 
