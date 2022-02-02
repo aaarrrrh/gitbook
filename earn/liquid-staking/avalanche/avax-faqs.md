@@ -60,7 +60,7 @@ This depends on the average staking period of Ankr Earn validator nodes, as well
 
 ### A.
 
-There is no slashing risk with Avalanche staking. There is a requirement of minimum 60% uptime to receive rewards though.
+Even if the selected node providers are slashed for poorly performing nodes, stakers will always receive their rewards **** from the insurance policies that all node providers must have. This way, stakers face no adverse effects or penalties from slashing while their staked assets are promptly delegated to better nodes.
 
 ### Q. Where can I use AVAXb? Can it be staked anywhere?
 
