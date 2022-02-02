@@ -4,6 +4,8 @@
 
 ## Configure your wallet to the Fantom Network
 
+### MetaMask&#x20;
+
 1. Log in to MetaMask&#x20;
 2.  Click the **Network** drop-down and select "Custom RPC"
 
@@ -26,5 +28,5 @@
 
 :x: **ImToken**: Fantom not supported
 
-:x: **Huobi wallet**: Fantom is not supported
+:x: **Huobi Wallet**: Fantom is not supported
 {% endhint %}
