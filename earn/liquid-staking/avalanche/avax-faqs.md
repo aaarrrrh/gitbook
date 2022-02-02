@@ -62,11 +62,11 @@ This depends on the average staking period of Ankr Earn validator nodes, as well
 
 Even if the selected node providers are slashed for poorly performing nodes, stakers will always receive their rewards **** from the insurance policies that all node providers must have. This way, stakers face no adverse effects or penalties from slashing while their staked assets are promptly delegated to better nodes.
 
-### Q. Where can I use AVAXb? Can it be staked anywhere?
+### Q. Where will my AVAX be staked?&#x20;
 
 ### A.
 
-You can stake AVAX using Avalanche network (C-Chain) on Ankr StakeFi and you will automatically receive aAVAXb on Avalanche network (C-Chain). You can also claim aAVAXb on Ethereum or Binance Smart Chain (in a few weeks), which will burn the aAVAXb on Avalanche network (C-Chain) received automatically after staking AVAX. aAVAXb address on
+Your AVAX is staked using the Avalanche network (C-Chain) on Ankr Earn and you will automatically receive aAVAXb on the Avalanche network (C-Chain). You can also claim aAVAXb on Ethereum or Binance Smart Chain, which will burn the aAVAXb on Avalanche network (C-Chain) received automatically after staking AVAX. aAVAXb address on
 
 Avalanche network (C-Chain):\*\* 0x6C6f910A79639dcC94b4feEF59Ff507c2E843929\*\*
 
