@@ -4,7 +4,7 @@ description: >-
   Network
 ---
 
-# Configure Metamask To Avalanche Network
+# Configure MetaMask To Avalanche Network
 
 ## Configure your Wallet to the Avalanche Network
 

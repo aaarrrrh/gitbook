@@ -6,7 +6,7 @@ description: This section walks you through staking AVAX and receiving Internet 
 
 This section assumes you have set up your wallet for the Avalanche C Network.
 
-Check out [Configure Metamask to Avalanche Network](../../staking/liquid-staking/avalanche/avax-faqs/metamask.md) if you haven't done so yet.
+Check out [Configure Metamask to Avalanche Network](metamask.md) if you haven't done so yet.
 
 ## 01 Connect your Wallet
 
