@@ -8,6 +8,8 @@ description: >-
 
 ## Configure your Wallet to the Avalanche Network
 
+### MetaMask
+
 1. Log in to MetaMask \\
 2.  Click the **Network** drop-down and select\*\* Custom RPC\*\*\\
 
