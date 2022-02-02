@@ -1,3 +1,7 @@
+---
+description: Coming soon - November-December 2021
+---
+
 # Fantom Liquid Staking
 
 Fantom Liquid Staking from Ankr Earn offers **instant liquidity** for your staked **FTM**, enabling you to connect your new aFTMb tokens with DeFi platforms and earn several more layers of rewards.&#x20;
