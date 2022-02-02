@@ -4,7 +4,7 @@ description: In this section we address some of the common questions users ask a
 
 # AVAX FAQs
 
-### Q. How do I configure my wallet?
+### Q. How do I configure my wallet for Avalanche?
 
 {% content-ref url="metamask.md" %}
 [metamask.md](metamask.md)
