@@ -35,7 +35,7 @@ A small **transaction fee** will be charged.
 {% hint style="warning" %}
 **NOTE**
 
-**Gas fee**s are incurred to finalize the staking transaction.
+**A Gas fee** is incurred to finalize the staking transaction.
 {% endhint %}
 
 4\. When the transaction is finalized, the **Staking Dashboard** automatically updates with your **aBNBb token** balance.
