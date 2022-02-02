@@ -14,6 +14,16 @@ description: In this section we address some of the common questions users ask a
 
 You can find out how to [Deploy a Smart Contract on Avalanche Using Remix and MetaMask](https://docs.avax.network/build/tutorials/smart-contracts/deploy-a-smart-contract-on-avalanche-using-remix-and-metamask) from Avalanche docs.
 
+### **Q. What is Avalanche (AVAX) liquid staking?**
+
+### **A.**
+
+**Avalanche Liquid Staking** offers **instant liquidity** for your staked **AVAX**. When you stake AVAX you can claim aAVAXb tokens. These can be used with DeFi platforms to potentially earn additional layers of rewards.
+
+The aAVAXb token allows you to earn Alpha. Alpha (α) is a term used to describe a return that beats the normal crypto market. Also known as an excess return.&#x20;
+
+By staking aMATICb tokens on other DeFi platforms there is the potential to earn additional rewards.
+
 ### Q. What is the minimum amount of AVAX I can stake?
 
 ### A.
