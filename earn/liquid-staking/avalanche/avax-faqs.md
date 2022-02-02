@@ -36,7 +36,7 @@ Your aAVAXb token balance in your wallet will increase with every rebase, rebase
 
 ### A.
 
-A rebase runs daily and rewards are received each time this runs. You will receive these rewards provided you hold AVAXb in your wallet, so you MUST claim the tokens out of StakeFi.
+You will see the aAVAXb balance in your wallet increase by a small amount every day in a process called rebasing to reflect your staking rewards.
 
 ### Q. Does Ankr charge for the rebasing service?
 
