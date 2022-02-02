@@ -54,7 +54,7 @@ You will be able to see your estimated earnings within the Ankr Earn platform. Y
 
 ### A.
 
-It depends on the average staking period of Ankr StakeFi validator nodes, as well as AVAX total supply and size of the future instant liquidity pool (indirect cost for aAVAXb holders).
+This depends on the average staking period of Ankr Earn validator nodes, as well as AVAX total supply and size of the future instant liquidity pool (indirect cost for aAVAXb holders).
 
 ### Q. Is there any risk from staking, like slashing or any penalties?
 
