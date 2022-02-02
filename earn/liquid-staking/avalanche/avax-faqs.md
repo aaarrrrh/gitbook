@@ -24,9 +24,7 @@ You can find out how to [Deploy a Smart Contract on Avalanche Using Remix and Me
 
 ### A.
 
-During the first few weeks, unstaking will be on hold to make sure that everything is working as planned. The first unstaking option will enable users to unstake by redeeming aAVAXb at fair value.
-
-The fair amount of AVAX will be transferred to the user’s wallet at the end of the next staking period, which can take up to 14 days (new staking period every 14 days). The staking rewards between the redemption of aAVAXb and effective end of the staking period will be credited to the user’s wallet as well.
+The fair amount of AVAX will be transferred to the user’s wallet at the end of the next staking period, which can take up to 14 days (new staking period every 14 days). The staking rewards between the redemption of aAVAXb and the effective end of the staking period will be credited to the user’s wallet as well.
 
 ### Q. How soon after staking will I begin to receive rewards?
 
