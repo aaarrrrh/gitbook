@@ -1,4 +1,4 @@
-# Ankr Earn Brand Assets
+# Brand Assets
 
 **Ankr Earn Brand Assets - Liquid Staking Tokens Logos**
 
@@ -12,6 +12,10 @@
 * [aAVAXb.svg](https://cdn.stkr.io/assets/token\_logo/raw/aAVAXb.svg)
 * [aMATICb.png](https://cdn.stkr.io/assets/token\_logo/raw/aMATICb.png)
 * [aMATICb.svg](https://cdn.stkr.io/assets/token\_logo/raw/aMATICb.svg)
+* [aBNBb.png](https://cdn.stkr.io/assets/token\_logo/raw/aBNBb.png)
+* [aBNBb.svg](https://cdn.stkr.io/assets/token\_logo/raw/aBNBb.svg)
+* [aFTMb.svg](https://cdn.stkr.io/assets/token\_logo/raw/aFTMb.svg)
+* [aFTMb.png](https://cdn.stkr.io/assets/token\_logo/raw/aFTMb.png)
 * [aDOTb.png](https://cdn.stkr.io/assets/token\_logo/raw/aDOTb.png)
 * [aDOTb.svg](https://cdn.stkr.io/assets/token\_logo/raw/aDOTb.svg)
 * [aKSMb.png](https://cdn.stkr.io/assets/token\_logo/raw/aKSMb.png)
@@ -25,5 +29,7 @@
 * [aETHc-32.png](https://cdn.stkr.io/assets/token\_logo/etherscan/aETHc-32.png)
 * [aAVAXb.png](https://cdn.stkr.io/assets/token\_logo/etherscan/aAVAXb.png)
 * [aMATICb.png](https://cdn.stkr.io/assets/token\_logo/etherscan/aMATICb.png)
+* [aBNBb.png](https://cdn.stkr.io/assets/token\_logo/etherscan/aBNBb.png)
+* [aFTMb.png](https://cdn.stkr.io/assets/token\_logo/etherscan/aFTMb.png)
 * [aDOTb.png](https://cdn.stkr.io/assets/token\_logo/etherscan/aDOTb.png)
 * [aKSMb.png](https://cdn.stkr.io/assets/token\_logo/etherscan/aKSMb.png)
