@@ -8,19 +8,27 @@ description: >-
 
 We offer BSC APIs and staking through [Ankr's BSC validator node](https://www.binance.org/en/staking/validator/bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j).
 
-## **The Binance Smart Chain**
+## **Binance Smart Chain 2022**
 
-Binance is the largest crypto exchange globally, and builders are finding its native blockchain, the Binance Smart Chain, to be one of the most enticing options for developing and launching new DeFi projects and tokens.
+Ankr has worked with the BSC team to implement Erigon on the 2022 upgrade.
+
+The Erigon upgrade solves many of the node syncing and unreliability issues of Binance Smart Chain. It brings drastically improved performance
+
+## **Binance Smart Chain**&#x20;
+
+Binance is the largest crypto exchanges globally, and builders are finding its native blockchain, the Binance Smart Chain, to be one of the most enticing options for developing and launching new DeFi projects and tokens.
 
 The BSC blockchain uses a proof-of-staked-authority (PoSA) consensus mechanism updated and operated by 21 validators. Validators must also be elected every 24 hours by delegators. Delegators are all other members that have staked BNB tokens.
 
-Ankr is consistently voted into the Top 3 Validators. Because Ankr is one of the most established and reputable validators on the BSC network, there is almost no risk of it getting “slashed” or removed from the small list of validators, making for a safer and more profitable staking process.
+Ankr is consistently voted into the Top 3 Validators. \
+\
+Ankr is one of the most established and reputable validators on the BSC network, there is almost no risk of it getting “slashed” or removed from the small list of validators, making for a safer and more profitable staking process.
 
 ### Quick Links
 
-[**Binance Smart Chain**](https://www.binance.org/en/smartChain)\*\*\*\*\
+[**Binance Smart Chain**](https://www.binance.org/en/smartChain)\
 [**Docs**](https://docs.binance.org/api-reference/node-rpc.html)\
-\*\*\*\*[**Github**](https://github.com/binance-chain)​
+[**Github**](https://github.com/binance-chain)​
 
 ## **Product Availability on BSC**
 

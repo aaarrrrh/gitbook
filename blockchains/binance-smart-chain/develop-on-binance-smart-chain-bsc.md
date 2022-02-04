@@ -1,12 +1,11 @@
 # Develop on Binance Smart Chain (BSC)
 
-In addition to Ankr’s free and public Binance Smart Chain API ([https://binance.ankr.com](https://binance.ankr.com)), Ankr allows users to create their own full and archive APIs with a variety of options for request call limits, archived data, and more. Ankr’s novel cluster technology allows APIs to draw from multiple nodes, offering a more reliable experience for our users. \
-****
+In addition to Ankr’s free and public Binance Smart Chain API ([https://binance.ankr.com](https://binance.ankr.com)), Ankr allows users to create their own full and archive APIs with a variety of options for request call limits, archived data, and more. Ankr’s novel cluster technology allows APIs to draw from multiple nodes, offering a more reliable experience for our users.&#x20;
 
 ### Get started on Binance Smart Chain
 
 1. Login or set up an account on app.ankr.com
-2. [**Create API**](https://app.ankr.com/api/create/arbitrum%20full) &#x20;
+2. [**Create API**](https://app.ankr.com/api/create/arbitrum%20full)
 
 ### Node Types Available on Ankr
 
@@ -16,15 +15,15 @@ In addition to Ankr’s free and public Binance Smart Chain API ([https://binanc
 ### Network Types Available on Ankr
 
 * Mainnet - Full & Archive
-* Testnet - Full&#x20;
+* Testnet - Full
 
-## Explorer Links <a href="explorer-links" id="explorer-links"></a>
+## Explorer Links <a href="#explorer-links" id="explorer-links"></a>
 
 Mainnet - [https://bscscan.com/](https://bscscan.com)​
 
 Testnet - [https://testnet.bscscan.com/](https://testnet.bscscan.com)​
 
-## **Endpoints Available** on Ankr <a href="endpoints-available-on-ankr" id="endpoints-available-on-ankr"></a>
+## **Endpoints Available** on Ankr <a href="#endpoints-available-on-ankr" id="endpoints-available-on-ankr"></a>
 
 * JSON RPC API;
 * WebSockets;
@@ -113,7 +112,6 @@ $ curl -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","method":"eth_bl
 
 {% tab title="Truffle" %}
 ```java
-
     const fs = require('fs');
     const mnemonic = fs.readFileSync(".secret").toString().trim();//.secret   Mnemonic Phrase
     var HDWalletProvider = require("truffle-hdwallet-provider");

@@ -169,6 +169,7 @@
   * [Develop on Arbitrum](blockchains/arbitrum/develop-on-arbitrum.md)
 * [Binance Smart Chain](blockchains/binance-smart-chain/README.md)
   * [Develop on Binance Smart Chain (BSC)](blockchains/binance-smart-chain/develop-on-binance-smart-chain-bsc.md)
+  * [How to run a BSC Node on Erigon](blockchains/binance-smart-chain/how-to-run-a-bsc-node-on-erigon.md)
 * [Clover Finance](blockchains/clover-finance/README.md)
   * [Develop on Clover Finance](blockchains/clover-finance/develop-on-clover-finance.md)
 * [Ethereum](blockchains/ethereum/README.md)
