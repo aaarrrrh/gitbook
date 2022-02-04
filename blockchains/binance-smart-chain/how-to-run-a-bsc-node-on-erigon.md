@@ -13,28 +13,32 @@ If you want to be able to run a node without buying vast disk space then Erigon 
 
 ### **00 Prerequisites**
 
-**Storage:** 2TB on a single partition, 1.6TB state 200GB temp files (can symlink or mount folder \<datadir>/etl-tmp to another disk).
-
-**RAM:** 16GB\
-****\
-******OS:** 64-bit
-
-**Network Settings:**\
-****Open up port 22 for SSH
-
-Open port 5050 for both TCP and UDP traffic.
+|                      |                                                                                                                           |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Storage**          | 2TB on a single partition, 1.6TB state 200GB temp files (can symlink or mount folder \<datadir>/etl-tmp to another disk). |
+| **RAM**              | 16GB                                                                                                                      |
+| **OS**               | <p>64-bit <br>Linux</p>                                                                                                   |
+| **Network settings** | <p>Open up port 22 for SSH</p><p>Open port 5050 for both TCP and UDP traffic.</p>                                         |
 
 ### **01 Install Dependencies**
 
 Check you have Go installed. It should be at least version 1.16&#x20;
 
-`go version` \
-\
-([https://go.dev/doc/install](https://go.dev/doc/install) if you don’t have the latest version)
+```
+go version 
+```
 
-## OPTION 1: Build from Sources
+```
+wget https://go.dev/dl/go1.17.6.linux-amd64.tar.gz
+$ sudo tar -xvf go1.17.linux-amd64.tar.gz
+$ sudo mv go /usr/local
+```
 
-### **1. Clone BSC Erigon Repo and Launch the Node**
+### 03 Select your preferred option
+
+### OPTION A: Build from Sources
+
+#### **1. Clone BSC Erigon Repo and Launch the Node**
 
 {% hint style="info" %}
 Binance Smart Chain mode is available on the **develop** branch
@@ -42,24 +46,60 @@ Binance Smart Chain mode is available on the **develop** branch
 
 ```bash
 git clone https://github.com/ledgerwatch/erigon --recursive
+```
+
+```
 cd erigon
+```
+
+```
 git checkout devel
+```
+
+```
 make all
 ```
 
-### 2. Run Erigon in BSC mode using binaries:
+You can see the sequence of updates as follows:\
+Builds erigon\
+Builds hack\
+Builds rpctest\
+Builds state\
+Builds pics\
+Builds rpcdaemon\
+Builds integration tests\
+Builds MDBX DB File\
+Builds Sentry\
+Builds txpool
+
+To view all commands run the following\
+`erigon --help`
+
+#### 2. Run Erigon in BSC mode using binaries:
 
 ```
 # for the node
-erigon --chain=bsc --datadir=/datadir --metrics --metrics.addr=0.0.0.0 --metrics.port=6060 --private.api.addr=0.0.0.0:9090 --pprof --pprof.addr=0.0.0.0 --pprof.port=6061
+erigon --chain=bsc --datadir=~/datadir --metrics --metrics.addr=0.0.0.0 --metrics.port=6060 --private.api.addr=0.0.0.0:9090 --pprof --pprof.addr=0.0.0.0 --pprof.port=6061
 
 # for rpcdaemon
 rpcdaemon --datadir=/datadir --private.api.addr=erigon:9090 --txpool.api.addr=erigon:9090 --http.addr=0.0.0.0 --http.vhosts=* --http.corsdomain=* --http.api=eth,debug,net,trace,txpool --ws
 ```
 
-## OPTION 2: Docker
+You should see something like this:
 
-### 1.  Install Docker
+```shell
+$ erigon --chain=bsc --datadir=~/datadir --metrics --metrics.addr=0.0.0.0 --metrics.port=6060 --private.api.addr=0.0.0.0:9090 --pprof --pprof.addr=0.0.0.0 --pprof.port=6061
+INFO[02-04|12:44:08.488] Starting metrics server                  addr=http://0.0.0.0:6060/debug/metrics/prometheus
+INFO[02-04|12:44:08.491] Starting pprof server                    cpu="go tool pprof -lines -http=: http://0.0.0.0:6061/debug/pprof/profile?seconds=20" heap="go tool pprof -lines -http=: http://0.0.0.0:6061/debug/pprof/heap"
+INFO[02-04|12:44:08.492] Build info                               git_branch=devel git_tag=v2021.12.03 git_commit=502e933029b6d9b8b06e13f2561109434ddb8a35
+INFO[02-04|12:44:08.492] Starting Erigon on                       devnet=bsc
+INFO[02-04|12:44:08.502] Maximum peer count                       ETH=100 total=100
+INFO[02-04|12:44:08.504] Set global gas cap                       cap=50000000
+```
+
+### OPTION B: Build from Docker
+
+#### 1.  Install Docker
 
 Verify Installation&#x20;
 
@@ -69,15 +109,15 @@ docker --version
 
 (Get Docker [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/))
 
-### 2. Run Instance
+#### 2. Create Container and run over image
 
 ```
 docker run -it thorax/erigon:devel erigon --chain=bsc --datadir=/datadir --metrics --metrics.addr=0.0.0.0 --metrics.port=6060 --private.api.addr=0.0.0.0:9090 --pprof --pprof.addr=0.0.0.0 --pprof.port=6061
 ```
 
-### 3. Docker Compose&#x20;
+### &#x20;OPTION C: Docker Compose&#x20;
 
-```
+```shell
 version: '2.2'
 services:
   erigon:
@@ -114,6 +154,6 @@ services:
     restart: always
 ```
 
-\
+With your node up and running you can start to make calls.\
 \
 \
