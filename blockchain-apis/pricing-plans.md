@@ -19,11 +19,7 @@ _(scroll across to view more)_
 | Archive Mode (Historical Data) | No          | No            | No            | :white\_check\_mark:YES | :white\_check\_mark:YES | :white\_check\_mark:YES |
 | Terms                          | No Contract | No Contract   | No Contract   | No Contract             | No Contract             | Contract Required       |
 
-
-
 {% hint style="info" %}
 **NOTE:**\
-****Archive node services can only be used on the **Pro,** **Growth, and Enterprise** plans.
+Archive node services can only be used on the **Pro,** **Growth, and Enterprise** plans.
 {% endhint %}
-
-&#x20;
