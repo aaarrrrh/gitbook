@@ -117,6 +117,10 @@ docker run -it thorax/erigon:devel erigon --chain=bsc --datadir=/datadir --metri
 
 ### &#x20;OPTION C: Docker Compose&#x20;
 
+1. Install `make`, `docker` and `docker-compose` on your local machine.\
+
+2. Edit `docker-compose.bsc.yml` as follows:
+
 ```shell
 version: '2.2'
 services:
@@ -153,6 +157,8 @@ services:
       - "443:443"
     restart: always
 ```
+
+3\. Run `docker-compose up` to start your node.
 
 With your node up and running you can start to make calls.\
 \
