@@ -38,7 +38,14 @@ $ sudo mv go /usr/local
 
 ### OPTION A: Build from Sources
 
-#### **1. Clone BSC Erigon Repo and Launch the Node**
+#### **1. Create an Erigon Directory and move to it.**
+
+```
+mkdir erigon
+cd erigon
+```
+
+#### **2. Clone BSC Erigon Repo and Launch the Node**
 
 {% hint style="info" %}
 Binance Smart Chain mode is available on the **develop** branch
@@ -46,10 +53,6 @@ Binance Smart Chain mode is available on the **develop** branch
 
 ```bash
 git clone https://github.com/ledgerwatch/erigon --recursive
-```
-
-```
-cd erigon
 ```
 
 ```
@@ -61,16 +64,16 @@ make all
 ```
 
 You can see the sequence of updates as follows:\
-Builds erigon\
-Builds hack\
-Builds rpctest\
-Builds state\
-Builds pics\
-Builds rpcdaemon\
-Builds integration tests\
-Builds MDBX DB File\
-Builds Sentry\
-Builds txpool
+_Builds erigon_\
+_Builds hack_\
+_Builds rpctest_\
+_Builds state_\
+_Builds pics_\
+_Builds rpcdaemon_\
+_Builds integration tests_\
+_Builds MDBX DB File_\
+_Builds Sentry_\
+_Builds txpool_
 
 To view all commands run the following\
 `erigon --help`
