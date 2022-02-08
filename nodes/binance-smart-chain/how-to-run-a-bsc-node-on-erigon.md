@@ -80,12 +80,12 @@ To view all commands run the following\
 
 #### 2. Run Erigon in BSC mode using binaries:
 
-```
+```javascript
 # for the node
-erigon --chain=bsc --datadir=~/datadir --metrics --metrics.addr=0.0.0.0 --metrics.port=6060 --private.api.addr=0.0.0.0:9090 --pprof --pprof.addr=0.0.0.0 --pprof.port=6061
+erigon --chain=bsc --datadir=/srv/svc --metrics --metrics.addr=0.0.0.0 --metrics.port=6060 --private.api.addr=0.0.0.0:9090 --pprof --pprof.addr=0.0.0.0 --pprof.port=6061
 
 # for rpcdaemon
-rpcdaemon --datadir=/datadir --private.api.addr=erigon:9090 --txpool.api.addr=erigon:9090 --http.addr=0.0.0.0 --http.vhosts=* --http.corsdomain=* --http.api=eth,debug,net,trace,txpool --ws
+rpcdaemon --datadir=/srv/svc --private.api.addr=erigon:9090 --txpool.api.addr=erigon:9090 --http.addr=0.0.0.0 --http.vhosts=* --http.corsdomain=* --http.api=eth,debug,net,trace,txpool --ws
 ```
 
 You should see something like this:
@@ -114,8 +114,8 @@ docker --version
 
 #### 2. Create Container and run over image
 
-```
-docker run -it thorax/erigon:devel erigon --chain=bsc --datadir=/datadir --metrics --metrics.addr=0.0.0.0 --metrics.port=6060 --private.api.addr=0.0.0.0:9090 --pprof --pprof.addr=0.0.0.0 --pprof.port=6061
+```javascript
+docker run -it ankrnetwork/erigon-for-bsc:latest erigon --chain=bsc --datadir=/srv/svc --metrics --metrics.addr=0.0.0.0 --metrics.port=6060 --private.api.addr=0.0.0.0:9090 --pprof --pprof.addr=0.0.0.0 --pprof.port=6061
 ```
 
 ### &#x20;OPTION C: Docker Compose&#x20;
@@ -130,7 +130,7 @@ services:
   erigon:
     #image: thorax/erigon:devel
     image: ankrnetwork/erigon-for-bsc:latest
-    command: erigon --chain=bsc --datadir=/datadir --metrics --metrics.addr=0.0.0.0 --metrics.port=6060 --private.api.addr=0.0.0.0:9090 --pprof --pprof.addr=0.0.0.0 --pprof.port=6061
+    command: erigon --chain=bsc --datadir=/srv/svc --metrics --metrics.addr=0.0.0.0 --metrics.port=6060 --private.api.addr=0.0.0.0:9090 --pprof --pprof.addr=0.0.0.0 --pprof.port=6061
     #command: "sh /datadir/check.bash"
     volumes:
       - /root/svc/erigon:/datadir
@@ -142,23 +142,9 @@ services:
       - "9090:9090"
     restart: unless-stopped
   rpcdaemon:
-    image: thorax/erigon:devel
-    command: rpcdaemon --datadir=/datadir --private.api.addr=erigon:9090 --txpool.api.addr=erigon:9090 --http.addr=0.0.0.0 --http.vhosts=* --http.corsdomain=* --http.api=eth,debug,net,trace,txpool --ws
-    pid: service:erigon # Use erigon's PID namespace. It's required to open Erigon's DB from another process (RPCDaemon local-mode)
-    volumes:
-      - /root/svc/erigon:/datadir
-    ports:
-      - "8545:8545"
-      - "8546:8546"
-    restart: unless-stopped
-  nginx:
-    image: nginx
-    volumes:
-      - /root/.acme.sh/:/root/.acme.sh/
-      - ./nginx.conf:/etc/nginx/conf.d/00-default.conf
-    ports:
-      - "443:443"
-    restart: always
+    #image: thorax/erigon:devel
+    image: ankrnetwork/erigon-for-bsc:latest
+    command: rpcdaemon --datadir=/srv/svc --private.api.addr=erigon:9090 --txpool.api.addr=erigon:9090 --http.addr=0.0.0.0 --http.vhosts=* 
 ```
 
 3\. Run `docker-compose up` to start your node.
