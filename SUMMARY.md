@@ -118,6 +118,7 @@
   * [BNB Staking](earn/staking/bnb-staking/README.md)
     * [BNB - Before you Start](earn/staking/bnb-staking/bnb-before-you-start.md)
     * [BNB - Staking](earn/staking/bnb-staking/bnb-staking.md)
+    * [BNB FAQs](earn/staking/bnb-staking/bnb-faqs.md)
 * [Parachain Liquid Crowdloans](earn/parachain-bonds/README.md)
   * [How to get KSM/DOT](earn/parachain-bonds/how-to-get-ksm.md)
   * [How to participate in Polkadot Slot Auctions using StakeFi](earn/parachain-bonds/how-to-participate-in-polkadot-slot-auctions-using-stakefi/README.md)
