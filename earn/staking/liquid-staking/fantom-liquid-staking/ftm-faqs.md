@@ -58,9 +58,9 @@ If a validator node acts maliciously, delegators will also be slashed as this is
 
 ### A.&#x20;
 
-You can find all DEXs and other places that host the aMATICb token within the [Ankr Boost](https://www.ankr.com/earn/boost/trade/?from=aETHb\&to=ETH) tool on the Ankr Earn platform. This will include trading opportunities, liquidity mining opportunities, yield farming opportunities, and more.
+You can find all DEXs and other places that host the aFTMb token within the [Ankr Boost](https://www.ankr.com/earn/boost/trade/?from=aETHb\&to=ETH) tool on the Ankr Earn platform. This will include trading opportunities, liquidity mining opportunities, yield farming opportunities, and more.
 
-### Which wallets are compatible with the aMATICb token?&#x20;
+### Which wallets are compatible with the aFTMb token?&#x20;
 
 ### A.&#x20;
 
