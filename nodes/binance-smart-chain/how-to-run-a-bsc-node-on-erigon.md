@@ -39,7 +39,7 @@ export PATH=$PATH:/usr/local/go/bin && echo "export PATH=$PATH:/usr/local/go/bin
 
 ### OPTION A: Build from Sources
 
-#### **1. Create an Erigon Directory and move to it.**
+#### **1. Create an SVC Directory and move into it.**
 
 ```
 mkdir svc
