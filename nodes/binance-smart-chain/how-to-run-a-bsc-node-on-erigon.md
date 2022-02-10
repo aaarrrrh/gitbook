@@ -31,7 +31,8 @@ go version
 ```
 wget https://go.dev/dl/go1.17.6.linux-amd64.tar.gz
 sudo tar -xvf go1.17.6.linux-amd64.tar.gz
-sudo mv go /usr/local/bin
+sudo mv go /usr/local
+export PATH=$PATH:/usr/local/go/bin && echo "export PATH=$PATH:/usr/local/go/bin" >> ~/.profile
 ```
 
 ### 03 Select your preferred option
