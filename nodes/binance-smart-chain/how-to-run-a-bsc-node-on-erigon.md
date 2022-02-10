@@ -31,7 +31,7 @@ go version
 ```
 wget https://go.dev/dl/go1.17.6.linux-amd64.tar.gz
 sudo tar -xvf go1.17.linux-amd64.tar.gz
-sudo mv go /usr/local
+sudo mv go /usr/local/bin
 ```
 
 ### 03 Select your preferred option
