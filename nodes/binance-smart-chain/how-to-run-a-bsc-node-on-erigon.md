@@ -42,7 +42,7 @@ export PATH=$PATH:/usr/local/go/bin && echo "export PATH=$PATH:/usr/local/go/bin
 #### **1. Create an Erigon Directory and move to it.**
 
 ```
-mkdir srv
+mkdir svc
 cd erigon
 ```
 
