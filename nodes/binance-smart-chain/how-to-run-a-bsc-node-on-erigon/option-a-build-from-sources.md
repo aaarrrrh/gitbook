@@ -31,6 +31,8 @@ export PATH=$PATH:/usr/local/go/bin && echo "export PATH=$PATH:/usr/local/go/bin
 sudo apt update && sudo apt install build-essential
 ```
 
+### 02 Clone Repository
+
 #### **1. Create an /srv/svc Directory and move into it.**
 
 ```shell
@@ -72,7 +74,9 @@ _Builds txpool_
 To view all commands run the following\
 `erigon --help`
 
-#### 2. Run Erigon in BSC mode using binaries:
+### 03 Run Node
+
+#### 1. Run Erigon in BSC mode using binaries:
 
 ```javascript
 # for the node
@@ -94,3 +98,4 @@ INFO[02-04|12:44:08.502] Maximum peer count                       ETH=100 total=
 INFO[02-04|12:44:08.504] Set global gas cap                       cap=50000000
 ```
 
+Start making requests.&#x20;
