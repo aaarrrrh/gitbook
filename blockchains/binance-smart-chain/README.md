@@ -15,7 +15,7 @@ Ankr has worked with the BSC team to implement Erigon on the 2022 upgrade.
 The Erigon upgrade solves many of the node syncing and unreliability issues of Binance Smart Chain. It brings drastically improved performance.\
 
 
-Check out [how-to-run-a-bsc-node-on-erigon.md](../../nodes/binance-smart-chain/how-to-run-a-bsc-node-on-erigon.md "mention")
+Check out [how-to-run-a-bsc-node-on-erigon](../../nodes/binance-smart-chain/how-to-run-a-bsc-node-on-erigon/ "mention")
 
 ## **Binance Smart Chain**&#x20;
 
