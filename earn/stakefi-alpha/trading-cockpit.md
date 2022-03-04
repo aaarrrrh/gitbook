@@ -2,7 +2,7 @@
 
 Check out the latest development to Ankr Earn.
 
-**Ankr Boost Trade** is a Liquid Staking data aggregation tool providing access to real-time trading prices.&#x20;
+**Ankr DeFi Trade** is a Liquid Staking data aggregation tool providing access to real-time trading prices.&#x20;
 
 {% hint style="info" %}
 **NOTE:**&#x20;
@@ -10,7 +10,7 @@ Check out the latest development to Ankr Earn.
 Real-time prices are provided by OpenOcean and the OpenOcean Trading Aggregator.  The OpenOcean Trading Aggregator applies a deeply optimized intelligent routing algorithm and a transparent price mechanism.  The algorithm is designed to allow a user to place orders with lower slippage, less gas consumption and better prices.
 {% endhint %}
 
-Select an asset you wish to trade and with a click of a button, **Ankr Boost Trade** compares real-time trading prices for the chosen asset pair.&#x20;
+Select an asset you wish to trade and with a click of a button, **Ankr DeFi Trade** compares real-time trading prices for the chosen asset pair.&#x20;
 
 In the following example, we want to know how much aETHb we can get for 10 ETH.&#x20;
 
@@ -32,6 +32,6 @@ The aETHc ratio is also applied when staking ETH to avoid existing stakers being
 
 ### Should I Stake or Trade?
 
-Ankr Boost Trade will compare prices on the market with Ankr's redemption (fair) value to indicate whether it is more attractive to stake, or trade. This tool was made to help stakers make better-informed decisions.&#x20;
+Ankr DeFi Trade will compare prices on the market with Ankr's redemption (fair) value to indicate whether it is more attractive to stake, or trade. This tool was made to help stakers make better-informed decisions.&#x20;
 
 ![Trading Cockpit](../../.gitbook/assets/trading-cockpit.png)
