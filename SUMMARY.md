@@ -114,7 +114,7 @@
     * [Binance Coin Liquid Staking](earn/staking/liquid-staking/binance-coin-liquid-staking/README.md)
       * [How to stake BNB](earn/staking/liquid-staking/binance-coin-liquid-staking/how-to-stake-bnb.md)
       * [BNB FAQs](earn/staking/liquid-staking/binance-coin-liquid-staking/bnb-faqs.md)
-  * [BNB Staking](earn/staking/bnb-staking/README.md)
+  * [BNB Delegate Staking](earn/staking/bnb-staking/README.md)
     * [BNB - Before you Start](earn/staking/bnb-staking/bnb-before-you-start.md)
     * [BNB - Staking](earn/staking/bnb-staking/bnb-staking.md)
     * [BNB FAQs](earn/staking/bnb-staking/bnb-faqs.md)
