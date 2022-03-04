@@ -133,6 +133,8 @@
   * [Liquidity Mining](earn/liquid-staking/provide-liquidity-to-dexs.md)
   * [Trade](earn/stakefi-alpha/trading-cockpit.md)
   * [Yield & Farming](earn/liquid-staking/yield-farming-opportunities-with-ankr-token-and-internet-bonds.md)
+* [Bridge](earn/bridge.md)
+* [Switch](earn/switch.md)
 * [Token Addresses](earn/liquid-staking/token-addresses.md)
 * [Brand Assets](earn/liquid-staking/ankr-earn-brand-assets.md)
 
