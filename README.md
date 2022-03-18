@@ -4,9 +4,21 @@ description: Your single-source-of-truth on Ankr products and services.
 
 # Welcome to Ankr Docs
 
-This documentation is to support you to get up and running with Ankr Solutions. We provide solutions for everybody. Whether you are a **Crypto Enthusiast**, **Developer**, **Enterprise** or a member of the Ankr **Community**.
 
-![Check out ](<.gitbook/assets/Screenshot 2021-11-05 at 17.36.40.png>)
+
+
+
+{% hint style="danger" %}
+****
+
+****
+
+**THESE DOCS ARE NO LONGER BEING MAINTAINED. CHECK OUT THE NEW DOCS** [https://www.ankr.com/docs/](https://www.ankr.com/docs/)
+
+
+{% endhint %}
+
+
 
 {% tabs %}
 {% tab title="Build" %}
