@@ -31,6 +31,7 @@
     * [Web 3.0 Developers](ankr-protocol/about-ankr-protocol/use-cases/web-3.0-developers.md)
     * [Web 2.0 Devs](ankr-protocol/about-ankr-protocol/use-cases/web-2.0-devs.md)
     * [Enterprise Dev Teams](ankr-protocol/about-ankr-protocol/use-cases/enterprise-dev-teams.md)
+* [Page 3](ankr-protocol/page-3.md)
 * [Public RPCs](ankr-protocol/public-rpcs/README.md)
   * [🐍 Use Web3.py to interact with RPC Nodes](ankr-protocol/public-rpcs/use-web3.py-to-interact-with-rpc-nodes.md)
   * [☕ Use Web3.js to interact with RPC Nodes](ankr-protocol/public-rpcs/use-web3.js-to-interact-with-rpc-nodes.md)
@@ -320,3 +321,17 @@
 * [Using Libraries](blockchain-apis/untitled-1.md)
 * [How to Create a Simple Project with Truffle](blockchain-apis/how-to-get-started-with-truffle.md)
 * [Getting Support](blockchain-apis/getting-support.md)
+
+## BNB Application Sidechain
+
+* [About BAS](bnb-application-sidechain/about-bas.md)
+* [Architecture](bnb-application-sidechain/architecture/README.md)
+  * [System Smart Contracts](bnb-application-sidechain/architecture/system-smart-contracts.md)
+  * [Governance](bnb-application-sidechain/architecture/governance.md)
+  * [Runtime Upgrades](bnb-application-sidechain/architecture/runtime-upgrades.md)
+  * [Fast-finality and BLS cryptography](bnb-application-sidechain/architecture/fast-finality-and-bls-cryptography.md)
+  * [Native Asset Bridge](bnb-application-sidechain/architecture/native-asset-bridge.md)
+  * [Circulation model and native asset bridge](bnb-application-sidechain/architecture/circulation-model-and-native-asset-bridge.md)
+* [How to Launch a BAS](bnb-application-sidechain/how-to-launch-a-bas.md)
+* [FAQ](bnb-application-sidechain/faq.md)
+* [Glossary](bnb-application-sidechain/glossary.md)

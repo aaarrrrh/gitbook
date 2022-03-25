@@ -1,7 +1,3 @@
----
-description: How to check if the node is working properly
----
-
 # Access Node Endpoint
 
 ## Get the Endpoint URL <a href="#get-the-endpoint-url" id="get-the-endpoint-url"></a>

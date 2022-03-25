@@ -73,7 +73,7 @@ You need to tell the chain your Session keys . This is what associates your vali
 
 Ankr:
 
-![](<../../.gitbook/assets/image (85).png>)
+![](<../../.gitbook/assets/image (85) (1).png>)
 
 Stafi Portal:
 
