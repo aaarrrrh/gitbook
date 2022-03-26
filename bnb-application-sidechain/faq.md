@@ -38,19 +38,13 @@ BAS Mainnet will be ready at least 2 months after that.
 
 Refer to the Architecture page. Also, read [BNB Chain 2022: Build N’ Build](https://www.bnbchain.world/en/blog/bsc-2022-build-and-build/) and [BEP100 proposal for Binance Application Sidechain (BAS)](https://github.com/bnb-chain/BEPs/pull/132).&#x20;
 
-#### If developers have questions about BAS deployment, which channel can they ask them?&#x20;
+#### If developers have questions about BAS deployment, where can they ask them?&#x20;
 
-We will soon set up a Discord channel for questions and organize a Twitter space to share more details.
+We will soon set up a Discord channel for questions and organize a Twitter space to share more details. For now, they can read "[How to Launch a BAS](https://docs.ankr.com/bnb-application-sidechain/how-to-launch-a-bas)".
 
 #### I have read the proposal and want to take the next step towards deployment. Who can I talk to?&#x20;
 
-For any technical questions, talk to Zoro.&#x20;
-
-For business questions, refer to Shawn.&#x20;
-
-Both of them are related to Binance.
-
-If you don't know any of them, wait till the Discord channel is set up. You'll be able to ask your questions there.
+For now, read "[How to Launch a BAS](https://docs.ankr.com/bnb-application-sidechain/how-to-launch-a-bas)". For other business and technical details, wait till the Discord channel is set up. You'll be able to ask your questions there.
 
 #### If a project already has its own private chain, what’s the process to integrate it as a BAS? And what does “integrate” mean?&#x20;
 

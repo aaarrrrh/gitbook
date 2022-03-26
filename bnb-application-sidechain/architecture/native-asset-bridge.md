@@ -20,7 +20,7 @@ Native asset bridge supports next user flows:
 
 BAS developers might specify fees for inter-chain operations and cross-chain operations between BAS and BSC chains. Such policy should be specified in the BAS smart contract and fees or fines-related mechanisms shouldn’t be presented in BSC smart contracts or block verification functions.
 
-#### BAS Validator Hub
+#### BAS validator hub
 
 By default, BSC brings only native asset cross-chain functionality to the BAS applications. To reach this, each BAS application must be registered in the BSC smart contract. This smart contract assigns chain id to the BAS application and specifies BHVF (block header verification function). This function is used to verify the block header, but w/o state transitions. BHVF should be written in Solidity and be able to verify the block header, the correctness of the chain for N blocks, and check signatures. Since default BAS implementation is BSC-based then default chain implementation is supported by BAS validator hub, we define such function to allow other developers that don’t want to rely on EVM or Parlia consensus engine to write their own verification function. Of course, developers might publish malicious functions or a function with a vulnerability that allows them to skip block verification and they should provide an audition of this code to be trusted by a community.
 

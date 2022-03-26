@@ -39,6 +39,6 @@ interface ISystemReward {
 
 BAS provides default implementation and financial model for staking and it is embedded to the genesis block as system smart contract, but BAS developers can choose another model based on their business requirements.
 
-#### **Staking Smart Contract**
+#### **Staking smart contract**
 
 The default implementation of BAS will contain staking smart contracts on Solidity for the EVM execution environment. This smart contract is an extension over `IValdiatorSet` and allows users to manage active validators based on the total delegated amount and distribute rewards between stakeholders. It's not strictly required to have EVM implementation of such smart contracts but for default BAS solutions it might be very useful. I’m not going to specify here ABI methods for such smart contracts because it's implementation-defined and each BAS developer can implement their own version based on their requirements.

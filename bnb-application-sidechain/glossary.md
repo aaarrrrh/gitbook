@@ -26,11 +26,11 @@ interface BASValidatorHub {
 
 ####
 
-#### Block header verification (BHVF)
+#### Block Header Verification (BHVF)
 
 A Solidity function that verifies block headers from BAS applications, thus ensuring the validators are not compromised. Also, BHVF is responsible for verifying transaction receipt from blockchain that allows to prove the correctness of cross-chain transfer from BAS to BSC chain.
 
-#### BLS cryptography
+#### BLS Cryptography
 
 Boneh–Lynn–Shacham cryptography for signature verification and more. For more detail, refer to [CryptoWiki](https://cryptography.fandom.com/wiki/BLS\_\(cryptography\)).
 
@@ -50,7 +50,7 @@ A powerful, sandboxed virtual stack embedded within each full Ethereum node, res
 
 On-chain governance in each BAS to let users vote for the new proposal on the chain. Voting power is distributed based on the total delegated amount to the validator. Once ⅔ of the quorum is reached and >51% of votes are for the proposal then it can be executed by anyone on the chain. Governance is able to manage staking parameters like felony threshold or jail period.
 
-#### Native asset bridge
+#### Native Asset Bridge
 
 A cross-chain bridge that is embedded to BAS as a system smart contract. It supports deposits (BAS -> BSC) and withdrawals (BSC -> BAS).
 
