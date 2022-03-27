@@ -80,6 +80,21 @@
 * [FAQs](ankr-protocol/faqs.md)
   * [What is a Public RPC endpoint](ankr-protocol/faqs/what-is-a-public-rpc-endpoint.md)
 
+## BNB Application Sidechain
+
+* [About BAS](bnb-application-sidechain/about-bas.md)
+* [Architecture](bnb-application-sidechain/architecture/README.md)
+  * [Circulation Model and Native Asset Bridge](bnb-application-sidechain/architecture/circulation-model-and-native-asset-bridge.md)
+  * [Native Asset Bridge](bnb-application-sidechain/architecture/native-asset-bridge.md)
+  * [Fast-Finality and BLS Cryptography](bnb-application-sidechain/architecture/fast-finality-and-bls-cryptography.md)
+  * [System Smart Contracts](bnb-application-sidechain/architecture/system-smart-contracts.md)
+  * [Governance](bnb-application-sidechain/architecture/governance.md)
+  * [Runtime Upgrades](bnb-application-sidechain/architecture/runtime-upgrades.md)
+* [How to Launch a BAS](bnb-application-sidechain/how-to-launch-a-bas.md)
+* [Demo](bnb-application-sidechain/demo.md)
+* [FAQ](bnb-application-sidechain/faq.md)
+* [Glossary](bnb-application-sidechain/glossary.md)
+
 ## Earn
 
 * [About Ankr Earn](earn/about.md)
@@ -320,18 +335,3 @@
 * [Using Libraries](blockchain-apis/untitled-1.md)
 * [How to Create a Simple Project with Truffle](blockchain-apis/how-to-get-started-with-truffle.md)
 * [Getting Support](blockchain-apis/getting-support.md)
-
-## BNB Application Sidechain
-
-* [About BAS](bnb-application-sidechain/about-bas.md)
-* [Architecture](bnb-application-sidechain/architecture/README.md)
-  * [Circulation Model and Native Asset Bridge](bnb-application-sidechain/architecture/circulation-model-and-native-asset-bridge.md)
-  * [Native Asset Bridge](bnb-application-sidechain/architecture/native-asset-bridge.md)
-  * [Fast-Finality and BLS Cryptography](bnb-application-sidechain/architecture/fast-finality-and-bls-cryptography.md)
-  * [System Smart Contracts](bnb-application-sidechain/architecture/system-smart-contracts.md)
-  * [Governance](bnb-application-sidechain/architecture/governance.md)
-  * [Runtime Upgrades](bnb-application-sidechain/architecture/runtime-upgrades.md)
-* [How to Launch a BAS](bnb-application-sidechain/how-to-launch-a-bas.md)
-* [Demo](bnb-application-sidechain/demo.md)
-* [FAQ](bnb-application-sidechain/faq.md)
-* [Glossary](bnb-application-sidechain/glossary.md)
