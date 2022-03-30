@@ -18,6 +18,10 @@ BAS uses BSC's Parlia consensus. Parlia is a Proof-of-Staked Authority (PoSA) co
 
 For more detail, read about Parlia on [Binance docs](https://docs.binance.org/smart-chain/guides/concepts/consensus.html#consensus-protocol).
 
+#### I've heard about the hack on Ronin. How does BAS protect me from something like this?
+
+The recent exploit discovered on Ronin illustrates the importance of having a diverse and decentralized group of validators and node operators serving the chain. Ankr will use its own token to help incentivize other node providers to support decentralization on BAS.
+
 #### What is the cost for projects to adopt BAS?&#x20;
 
 Depends on whether the project wants to own their own BAS, or they want it as a PaaS service.&#x20;
@@ -42,7 +46,7 @@ Refer to the Architecture page. Also, read [BNB Chain 2022: Build N’ Build](ht
 
 We will soon set up a Discord channel for questions and organize a Twitter space to share more details. For now, they can read "[How to Launch a BAS](https://docs.ankr.com/bnb-application-sidechain/how-to-launch-a-bas)".
 
-#### I have read the proposal and want to take the next step towards deployment. Who can I talk to?&#x20;
+#### I have read the proposal and want to take the next step toward deployment. Who can I talk to?&#x20;
 
 For now, read "[How to Launch a BAS](https://docs.ankr.com/bnb-application-sidechain/how-to-launch-a-bas)". For other business and technical details, wait till the Discord channel is set up. You'll be able to ask your questions there.
 

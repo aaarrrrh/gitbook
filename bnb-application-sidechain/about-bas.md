@@ -16,6 +16,8 @@ Today BSC is experiencing network scalability problems and the core developer ha
 
 In short, the typical usage of BAS is like the Ronin chain for the Axie Infinity.
 
+Unlike Ronin, though, BAS is designed with better architecture and security in mind. The recent exploit discovered on Ronin illustrates the importance of having a diverse and decentralized group of validators and node operators serving the chain. Ankr will use its own token to help incentivize other node providers to support decentralization on BAS.
+
 But let's look bigger!
 
 Your team wants to use blockchain tech to solve any of your business-specific tasks. To do this, they have to find ready-made solutions, fork them, make changes, and so on, which:
