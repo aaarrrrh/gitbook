@@ -25,16 +25,17 @@
 
 * [About BAS](bnb-application-sidechain/about-bas.md)
 * [Architecture](bnb-application-sidechain/architecture/README.md)
-  * [Circulation Model and Native Asset Bridge](bnb-application-sidechain/architecture/circulation-model-and-native-asset-bridge.md)
-  * [Native Asset Bridge](bnb-application-sidechain/architecture/native-asset-bridge.md)
   * [Fast-Finality and BLS Cryptography](bnb-application-sidechain/architecture/fast-finality-and-bls-cryptography.md)
+  * [Native Asset Bridge](bnb-application-sidechain/architecture/native-asset-bridge.md)
   * [System Smart Contracts](bnb-application-sidechain/architecture/system-smart-contracts.md)
   * [Governance](bnb-application-sidechain/architecture/governance.md)
   * [Runtime Upgrades](bnb-application-sidechain/architecture/runtime-upgrades.md)
-* [How to Launch a BAS](bnb-application-sidechain/how-to-launch-a-bas.md)
+  * [Circulation Model and Native Asset Bridge](bnb-application-sidechain/architecture/circulation-model-and-native-asset-bridge.md)
+* [How to Launch a BAS](bnb-application-sidechain/how-to-launch-a-bas/README.md)
+  * [Deploy ERC20 token](bnb-application-sidechain/how-to-launch-a-bas/deploy-erc20-token.md)
+  * [Copy of Deploy ERC721 token](bnb-application-sidechain/how-to-launch-a-bas/copy-of-deploy-erc721-token.md)
 * [Demo](bnb-application-sidechain/demo.md)
 * [FAQ](bnb-application-sidechain/faq.md)
-* [Glossary](bnb-application-sidechain/glossary.md)
 
 ## Ankr Protocol
 
